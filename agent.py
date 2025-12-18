@@ -1,3 +1,4 @@
+from llm_client import call_llm
 class Agent:
     def __init__(self, name, role, priority):
         self.name = name
@@ -38,10 +39,22 @@ class CharacterAgent(Agent):
         }
 class EmotionAgent(Agent):
     def generate_proposal(self, story_state):
-        if story_state.get_round() == 0:
-            text = "A quiet sense of unease settles into the atmosphere."
-        else:
-            text = "The emotional tension intensifies as uncertainty grows."
+        system_prompt = (
+            "You are an emotion-focused storytelling agent. "
+            "You only describe mood and atmosphere. "
+            "Do NOT change character decisions or plot events."
+        )
+
+        user_prompt = (
+            f"Story so far:\n{story_state.get_full_story()}\n\n"
+            "Add one sentence describing the emotional tone."
+        )
+
+        try:
+            text = call_llm(system_prompt, user_prompt)
+        except Exception:
+            # fallback (VERY IMPORTANT)
+            text = "An undercurrent of emotion subtly shapes the scene."
 
         return {
             "agent": self.name,
