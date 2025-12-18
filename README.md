@@ -1,12 +1,10 @@
-\# Dreamscape
+Dreamscape
 
 
 
 A multi-agent storytelling system with negotiation-based decision making.
 
-
-
-\## Implemented Phases
+Implemented Phases
 
 \- Phase 1: Core multi-agent skeleton
 
@@ -16,15 +14,15 @@ A multi-agent storytelling system with negotiation-based decision making.
 
 \- Phase 4: Collaborative negotiation with proposal merging
 
+\- Phase 5: LLM integration(Emotional agent)
+\- Phase 6: LLM inntegration(Plot Agent)
 
-
-\## Current Status
-
-Phase 4 stable baseline (deterministic, no LLMs)
-
-
-
-\## Next Phase
+ Current Status
 
 Phase 5: LLM integration
+
+
+Next Phase
+
+Phase 6: LLM integration(PLot agent)
 
