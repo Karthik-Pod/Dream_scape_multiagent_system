@@ -41,12 +41,28 @@ class PlotAgent(Agent):
         }
 class CharacterAgent(Agent):
     def generate_proposal(self, story_state):
-        last = story_state.get_last_segment()
+        system_prompt = (
+            "You are the protagonist in a story. "
+            "Decide what you do next in a believable way. "
+            "Be consistent with the story so far."
+        )
 
-        if "hesitates" in last or story_state.get_round() == 0:
-            text = "The protagonist gathers courage and makes a deliberate choice."
-        else:
-            text = "The protagonist stands by their decision, accepting its consequences."
+        user_prompt = (
+            f"Story so far:\n{story_state.get_full_story()}\n\n"
+            "In ONE sentence, describe what the protagonist does next."
+        )
+
+        text = None
+        try:
+            text = call_llm(system_prompt, user_prompt)
+        except Exception as e:
+            print("[DEBUG] CharacterAgent fallback triggered:", e)
+            if story_state.get_round() == 0:
+                text = "The protagonist cautiously decides their next move."
+            else:
+                text = "The protagonist adjusts their behavior in response to recent events."
+
+        print("[DEBUG] CharacterAgent output:", text)
 
         return {
             "agent": self.name,
@@ -54,6 +70,7 @@ class CharacterAgent(Agent):
             "priority": self.priority,
             "type": "character"
         }
+
 class EmotionAgent(Agent):
     def generate_proposal(self, story_state):
         system_prompt = (
