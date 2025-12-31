@@ -15,14 +15,15 @@ Implemented Phases
 \- Phase 4: Collaborative negotiation with proposal merging
 
 \- Phase 5: LLM integration(Emotional agent)
+
 \- Phase 6: LLM inntegration(Plot Agent)
 
+\- Phase 7: API key PLacement 
  Current Status
 
-Phase 5: LLM integration
-
+Phase 8: Initial of communication between the first 3 agents 
 
 Next Phase
 
-Phase 6: LLM integration(PLot agent)
+
 
