@@ -19,6 +19,8 @@ Implemented Phases
 \- Phase 6: LLM inntegration(Plot Agent)
 
 \- Phase 7: API key PLacement 
+ 
+ 
  Current Status
 
 Phase 8: Initial of communication between the first 3 agents 
