@@ -1,20 +1,39 @@
 class Coordinator:
-    def __init__(self, agents, negotiation_engine):
+    def __init__(self, agents, negotiation_engine, conversation_log):
         self.agents = agents
         self.negotiation_engine = negotiation_engine
+        self.conversation_log = conversation_log
 
     def run_round(self, story_state):
-        proposals = []
+        story_context = story_state.get_full_story()
 
+        print("\n--- AGENT COMMUNICATION ROUND ---")
+
+        # ---- COMMUNICATION ROUND ----
         for agent in self.agents:
-            proposal = agent.generate_proposal(story_state)
-            proposals.append(proposal)
+            message = agent.communicate(
+                story_context,
+                self.conversation_log.get()
+            )
+            self.conversation_log.add(agent.name, message)
 
-        resolved = self.negotiation_engine.resolve(proposals)
+            print(f"\n[{agent.name} says]:")
+            print(message)
 
-        # debug visibility
-        print("\nNegotiation summary:")
-        for p in proposals:
-            print(f"- {p['agent']} ({p['type']}) proposed")
+        print("\n--- END OF AGENT DISCUSSION ---")
 
-        return resolved
+        # ---- PROPOSAL ROUND ----
+        proposals = {}
+        for agent in self.agents:
+            proposal = agent.propose(
+                story_context,
+                self.conversation_log.get()
+            )
+            proposals[agent.name] = proposal
+
+        chosen_agent = self.negotiation_engine.select(proposals)
+
+        return {
+            "agent": chosen_agent,
+            "text": proposals[chosen_agent]
+        }
