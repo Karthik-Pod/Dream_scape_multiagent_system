@@ -482,8 +482,7 @@ Contributions welcome! Areas for improvement:
 ## 📞 Contact & Support
 
 - **GitHub Issues:** https://github.com/Karthik-Pod/Dream_scape_multiagent_system/issues
-- **Email:** [karthik@example.com]
-- **LinkedIn:** [Karthik Bharadwaj]
+- **Email:** [karthikpoduru9@gmail.com]
 
 ---
 
@@ -491,7 +490,7 @@ Contributions welcome! Areas for improvement:
 
 [Watch full 15-minute demo on YouTube](#)  
 Shows: Story generation → Review loop → Image generation → Audio → Final video assembly
-
+- ** Youtube:** https://youtu.be/2eH-Z0DUcLQ
 ---
 
 <div align="center">
