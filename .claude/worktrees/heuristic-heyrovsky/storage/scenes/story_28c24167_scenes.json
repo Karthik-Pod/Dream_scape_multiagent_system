@@ -1,0 +1,441 @@
+{
+  "story_id": "story_28c24167",
+  "total_scenes": 7,
+  "scenes": [
+    {
+      "scene_id": "story_28c24167_scene_01",
+      "story_id": "story_28c24167",
+      "sequence_number": 1,
+      "title": "Lost in the Future",
+      "setting": {
+        "location": "Vizag",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "futuristic",
+        "lighting": "city lights"
+      },
+      "characters": [
+        {
+          "name": "The Man from Vizag",
+          "emotion": "disoriented",
+          "action": "struggling to comprehend surroundings",
+          "location_in_scene": "in the futuristic surroundings"
+        },
+        {
+          "name": "The Guide",
+          "emotion": "amusement, curiosity",
+          "action": "approaching, speaking to the protagonist",
+          "location_in_scene": "approaching the protagonist"
+        }
+      ],
+      "narration_text": "The man from Vizag struggled to comprehend the futuristic surroundings. A figure approached him, dressed in attire that shimmered like the city lights. The figure spoke to him in Telugu, asking what was going on, why he was dressed in his clothes, and why he was speaking Telugu. The protagonist explained his situation, and the guide's expression changed from amusement to curiosity.",
+      "dialogue": [
+        {
+          "character": "The Guide",
+          "text": "Elaa bro, ikkada emi jarugutundhi? Nee dress emanna, ippudu ippatiki Telugu matladtunnav?",
+          "emotion": "amusement"
+        },
+        {
+          "character": "The Protagonist",
+          "text": "unknown",
+          "emotion": "unknown"
+        }
+      ],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 3,
+      "visual_prompt": "A futuristic cityscape with a mix of neon lights and sleek architecture. The protagonist, dressed in casual clothes, looks disoriented and out of place. The guide, dressed in shimmering attire, approaches him with a mixture of amusement and curiosity on their face. The scene is lit with a warm glow, with shadows accentuating the futuristic elements.",
+      "negative_prompt": "avoid over-the-top sci-fi elements, focus on the protagonist's disorientation",
+      "narration_style": "calm",
+      "music_mood": "mellow electronic with a hint of Indian classical music",
+      "music_tempo": "moderate",
+      "sfx_cues": [],
+      "ambient_sounds": [],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "futuristic",
+        "Telugu",
+        "disorientation"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_28c24167_scene_02",
+      "story_id": "story_28c24167",
+      "sequence_number": 2,
+      "title": "Lost in a New World",
+      "setting": {
+        "location": "a city",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "strange and unfamiliar",
+        "lighting": "daylight"
+      },
+      "characters": [
+        {
+          "name": "Ravi",
+          "emotion": "concerned",
+          "action": "explaining the city's layout and customs",
+          "location_in_scene": "with the protagonist"
+        },
+        {
+          "name": "Protagonist",
+          "emotion": "confused",
+          "action": "trying to grasp his situation",
+          "location_in_scene": "with Ravi"
+        }
+      ],
+      "narration_text": "The guide introduced himself as Ravi and began to explain the city's layout and its customs, but the protagonist's mind was elsewhere, trying to grasp how he ended up in this strange new world. Ravi, noticing his confusion, suggested they visit a local information hub where they could find more about the portal the protagonist came through and possibly a way back home.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 5,
+      "visual_prompt": "A futuristic cityscape with a mix of Eastern and Western architectural styles, vibrant colors, and a sense of disorientation. The protagonist, a young adult with a confused expression, stands next to Ravi, a guide with a concerned look on his face. The background should include a large information hub with a glowing portal in the distance. Art style: a blend of realistic and stylized elements. Lighting: soft and diffused, with a hint of mystery. Composition: the protagonist and Ravi should be centered, with the information hub and portal in the background. Colors: a palette of blues and purples to convey a sense of uncertainty. Mood: mysterious and slightly ominous.",
+      "negative_prompt": "no fantasy creatures, no sci-fi elements beyond the portal",
+      "narration_style": "calm",
+      "music_mood": "contemplative ambient electronic with a hint of mystery",
+      "music_tempo": "moderate",
+      "sfx_cues": [],
+      "ambient_sounds": [
+        "gentle city sounds"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "sci-fi",
+        "mystery",
+        "adventure"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_28c24167_scene_03",
+      "story_id": "story_28c24167",
+      "sequence_number": 3,
+      "title": "The Information Hub",
+      "setting": {
+        "location": "Information hub",
+        "time_of_day": "unknown",
+        "weather": "indoor",
+        "atmosphere": "high-tech futuristic",
+        "lighting": "bright, holographic"
+      },
+      "characters": [
+        {
+          "name": "Ravi",
+          "emotion": "confident",
+          "action": "leading the protagonist to a central console",
+          "location_in_scene": "near the central console"
+        },
+        {
+          "name": "Protagonist",
+          "emotion": "curious",
+          "action": "following Ravi",
+          "location_in_scene": "behind Ravi, near the central console"
+        }
+      ],
+      "narration_text": "As they entered the information hub, a vast, spherical room filled with holographic displays and strange, glowing orbs, Ravi led the protagonist to a central console. The console, responding to Ravi's commands in Telugu, 'Samacharam pampu' (Display information), flashed a hologram of the city's history and the portal system.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 2,
+      "visual_prompt": "A futuristic, spherical room with holographic displays and glowing orbs. The central console is a sleek, high-tech device with a holographic display. The atmosphere is bright and futuristic. The art style is a blend of sci-fi and Indian culture. The colors are a mix of blues and whites, with accents of bright, neon colors. The mood is curious and inquiring. The scene elements include holographic displays, glowing orbs, and a central console.",
+      "negative_prompt": "dystopian, dark, gritty",
+      "narration_style": "calm",
+      "music_mood": "upbeat, futuristic electronic with a hint of Indian classical",
+      "music_tempo": "moderate",
+      "sfx_cues": [
+        "holographic display beeps",
+        "console whirring"
+      ],
+      "ambient_sounds": [
+        "hum of machinery",
+        " gentle whoosh of air"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "science fiction",
+        "futuristic",
+        "Indian culture"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_28c24167_scene_04",
+      "story_id": "story_28c24167",
+      "sequence_number": 4,
+      "title": "The Prophecy Unfolds",
+      "setting": {
+        "location": "A futuristic console or control room",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "serious and ominous",
+        "lighting": "dimly lit with console lights"
+      },
+      "characters": [
+        {
+          "name": "Ravi",
+          "emotion": "grave and concerned",
+          "action": "reading the message on the console",
+          "location_in_scene": "in front of the console"
+        },
+        {
+          "name": "The Protagonist",
+          "emotion": "surprised and possibly scared",
+          "action": "watching the images on the console",
+          "location_in_scene": "next to Ravi"
+        }
+      ],
+      "narration_text": "The protagonist's eyes widened as he saw images of his hometown, Vizag, and the manhole he had jumped into, labeled as a 'temporary rift' in the fabric of space-time. Suddenly, the console beeped, and a message in Telugu appeared, 'Aadavitii vijayam, andariki telusu' (The prophecy is known to all). Ravi's expression turned grave, 'Bro, nee raa, ikkada vijayam lo bhagam untadhu' (You, my friend, have a role in the prophecy).",
+      "dialogue": [
+        {
+          "character": "Ravi",
+          "text": "Bro, nee raa, ikkada vijayam lo bhagam untadhu (You, my friend, have a role in the prophecy)",
+          "emotion": "serious and concerned"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "medium",
+      "tension_level": 8,
+      "visual_prompt": "A futuristic console room with a large screen displaying images of Vizag and the manhole. Ravi and the protagonist are standing in front of the console, with Ravi looking grave and the protagonist looking surprised. The lighting is dimly lit with console lights, and the atmosphere is serious and ominous. Art style: dark sci-fi, colors: muted blues and greys, mood: suspenseful.",
+      "negative_prompt": "no smiling or happy faces",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "console beeping",
+        "distant hum"
+      ],
+      "ambient_sounds": [
+        "static",
+        "distant machinery"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "prophecy",
+        "science fiction",
+        "futuristic"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_28c24167_scene_05",
+      "story_id": "story_28c24167",
+      "sequence_number": 5,
+      "title": "The Prophecy's Dark Omen",
+      "setting": {
+        "location": "information hub",
+        "time_of_day": "unknown",
+        "weather": "none",
+        "atmosphere": "eerie silence, foreboding",
+        "lighting": "flickering holographic lights, dimmed fluorescent panels"
+      },
+      "characters": [
+        {
+          "name": "Ravi",
+          "emotion": "urgency",
+          "action": "explaining the prophecy",
+          "location_in_scene": "center of the room"
+        },
+        {
+          "name": "Protagonist",
+          "emotion": "concerned",
+          "action": "scanning the room",
+          "location_in_scene": "scanning the room"
+        }
+      ],
+      "narration_text": "As Ravi delved deeper into the prophecy, the air in the information hub grew thick with an eerie silence. The protagonist's eyes scanned the room, noticing the flickering holographic lights and dimmed fluorescent panels, which seemed to heighten the sense of foreboding. Ravi's voice, now laced with a sense of urgency, explained that a powerful faction, known as the 'Andhras', sought to exploit the prophecy for their own gain.",
+      "dialogue": [
+        {
+          "character": "Ravi",
+          "text": "Ravi's voice, now laced with a sense of urgency, explained that a powerful faction, known as the 'Andhras', sought to exploit the prophecy for their own gain.",
+          "emotion": "urgency"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "medium",
+      "tension_level": 7,
+      "visual_prompt": "Dark, gritty sci-fi art style with flickering holographic lights, dim fluorescent panels, and a sense of foreboding. Composition: protagonist in the center, Ravi in the background. Colors: muted blues and greys with flashes of red. Mood: ominous and urgent.",
+      "negative_prompt": "Bright colors, cheerful atmosphere, and happy characters",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with ominous strings",
+      "music_tempo": "moderate",
+      "sfx_cues": [
+        "holographic lights flickering",
+        "dim fluorescent panels humming"
+      ],
+      "ambient_sounds": [
+        "distant hum of machinery",
+        "muted whispers"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "prophecy",
+        "faction",
+        "urgency"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_28c24167_scene_06",
+      "story_id": "story_28c24167",
+      "sequence_number": 6,
+      "title": "Escape from the Hub",
+      "setting": {
+        "location": "information hub and city streets",
+        "time_of_day": "night",
+        "weather": "unknown",
+        "atmosphere": "dangerous",
+        "lighting": "ominous neon"
+      },
+      "characters": [
+        {
+          "name": "Ravi",
+          "emotion": "concerned",
+          "action": "grabbing the protagonist's arm and rushing out",
+          "location_in_scene": "information hub and city streets"
+        },
+        {
+          "name": "protagonist",
+          "emotion": "confused",
+          "action": "being grabbed and rushing out",
+          "location_in_scene": "information hub and city streets"
+        }
+      ],
+      "narration_text": "Ravi grabbed the protagonist's arm, 'Raa, ikkada nee, vellu, Bhairava vachadu' (Come, we must leave, Bhairava is coming). As Ravi and the protagonist rushed out of the information hub, the city's streets transformed into a maze of danger. The neon lights that once seemed so welcoming now cast long, ominous shadows.",
+      "dialogue": [
+        {
+          "character": "Ravi",
+          "text": "'Raa, ikkada nee, vellu, Bhairava vachadu'",
+          "emotion": "urgent"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "a dark and ominous cityscape with neon lights casting long shadows, a maze of danger in the streets, a sense of urgency and fear, art style: gritty and realistic, lighting: low-key with deep shadows, composition: dynamic and chaotic, colors: dark blues and purples, mood: foreboding and intense, scene elements: Ravi and the protagonist rushing out of the information hub, Bhairava looming in the background",
+      "negative_prompt": "bright and welcoming cityscape, calm and peaceful atmosphere",
+      "narration_style": "urgent",
+      "music_mood": "dark and ominous electronic with pulsing synths",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "distant footsteps",
+        "alarms blaring",
+        "shattering glass"
+      ],
+      "ambient_sounds": [
+        "city traffic",
+        "distant sirens"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_28c24167_scene_07",
+      "story_id": "story_28c24167",
+      "sequence_number": 7,
+      "title": "Suspicious Encounter",
+      "setting": {
+        "location": "Unknown, possibly outdoors",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense, foreboding",
+        "lighting": "natural, possibly fading light"
+      },
+      "characters": [
+        {
+          "name": "Protagonist",
+          "emotion": "suspicious, concerned",
+          "action": "questioning Leela",
+          "location_in_scene": "standing face-to-face with Leela"
+        },
+        {
+          "name": "Leela",
+          "emotion": "nervous, hesitant",
+          "action": "responding to the protagonist's question",
+          "location_in_scene": "standing face-to-face with the protagonist"
+        },
+        {
+          "name": "Bhairava",
+          "emotion": "unknown",
+          "action": "imminent arrival",
+          "location_in_scene": "off-screen, possibly approaching"
+        },
+        {
+          "name": "Srinu",
+          "emotion": "unknown",
+          "action": "potential traitor",
+          "location_in_scene": "unknown"
+        }
+      ],
+      "narration_text": "The protagonist's eyes met Leela's, and for a fleeting moment, he thought he saw a glimmer of deceit. He asked her if everything was okay, trying to sound casual. Leela's response was hesitant, and the protagonist's mind was racing with questions.",
+      "dialogue": [
+        {
+          "character": "Protagonist",
+          "text": "'Elaa, nee raa, ikkada emi jarugutundhi?'",
+          "emotion": "concerned, casual"
+        },
+        {
+          "character": "Leela",
+          "text": "Emanna, bro, nee raa, vellu, Bhairava vachadu",
+          "emotion": "nervous, hesitant"
+        }
+      ],
+      "emotional_tone": "suspenseful",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A tense, outdoor scene with two characters standing face-to-face, set against a fading light backdrop. The protagonist's eyes are narrowed in suspicion, while Leela's expression is nervous and hesitant. The atmosphere is foreboding, with a sense of impending danger. The art style is realistic, with muted colors and subtle textures. The composition is tight, with the characters centered in the frame. The mood is suspenseful, with a sense of unease and uncertainty.",
+      "negative_prompt": "cheerful, happy, bright colors",
+      "narration_style": "calm",
+      "music_mood": "ominous, foreboding electronic with a hint of percussion",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "footsteps",
+        "rustling leaves"
+      ],
+      "ambient_sounds": [
+        "distant wind",
+        "muted chatter"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "suspense",
+        "mystery",
+        "drama"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

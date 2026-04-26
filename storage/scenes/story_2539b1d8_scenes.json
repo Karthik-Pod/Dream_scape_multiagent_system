@@ -1,0 +1,226 @@
+{
+  "story_id": "story_2539b1d8",
+  "total_scenes": 4,
+  "scenes": [
+    {
+      "scene_id": "story_2539b1d8_scene_01",
+      "story_id": "story_2539b1d8",
+      "sequence_number": 1,
+      "title": "Tiger's Narrow Escape",
+      "setting": {
+        "location": "a jungle or forest with large boulders",
+        "time_of_day": "unknown",
+        "weather": "sunny or cloudy, but not rainy",
+        "atmosphere": "tense and suspenseful",
+        "lighting": "dappled or filtered natural light"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "adrenaline-fueled fear and relief",
+          "action": "sprinting and squeezing through a tight space",
+          "location_in_scene": "between two boulders and then in a small, enclosed area"
+        },
+        {
+          "name": "the tiger",
+          "emotion": "hunger and aggression",
+          "action": "pouncing and swiping at the air",
+          "location_in_scene": "between two boulders and then in a small, enclosed area"
+        }
+      ],
+      "narration_text": "The boy spotted a narrow opening between two large boulders and sprinted towards it. He squeezed through the tight space just as the tiger was about to pounce, its claws swiping at the air mere inches from his heels. panting heavily, the boy found himself in a small, enclosed area surrounded by dense foliage.",
+      "dialogue": [],
+      "emotional_tone": "suspenseful",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dramatic, high-contrast image of a boy squeezing through a narrow opening between two large boulders, with a tiger's claws swiping at the air mere inches from his heels. The boy should be in mid-sprint, with a look of fear and adrenaline on his face. The tiger should be in the background, with its eyes fixed on the boy. The image should be set in a dense jungle or forest, with dappled or filtered natural light. The art style should be realistic, with a focus on capturing the tension and suspense of the moment. Colors should be muted, with a focus on greens and browns to represent the jungle environment. Mood should be intense and suspenseful.",
+      "negative_prompt": "no cartoonish or unrealistic elements, no bright or cheerful colors",
+      "narration_style": "urgent",
+      "music_mood": "dark and ominous, with a sense of foreboding",
+      "music_tempo": "fast and building",
+      "sfx_cues": [
+        "tiger's roar",
+        "boy's panting",
+        "leaves rustling"
+      ],
+      "ambient_sounds": [
+        "birds chirping",
+        "leaves rustling"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "adventure",
+        "suspense",
+        "jungle"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_2539b1d8_scene_02",
+      "story_id": "story_2539b1d8",
+      "sequence_number": 2,
+      "title": "Trapped in the Wilderness",
+      "setting": {
+        "location": "a wilderness area with boulders",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense, foreboding",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fearful, determined",
+          "action": "looking for defense or escape, grasping a branch",
+          "location_in_scene": "behind the boulders"
+        },
+        {
+          "name": "the tiger",
+          "emotion": "menacing",
+          "action": "waiting on the other side of the boulders",
+          "location_in_scene": "on the other side of the boulders"
+        }
+      ],
+      "narration_text": "For a moment, he was safe, but he knew the tiger could easily follow if it chose to. He looked around frantically for any means of defense or escape, his eyes adjusting to the dim light. A fallen branch caught his eye, and with a surge of determination, he grasped it, ready to face whatever came next. The silence was oppressive, the only sound the heavy breathing of the boy and the distant, muffled roar of the tiger, waiting on the other side of the boulders.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dark, misty wilderness area with boulders, a dimly lit atmosphere, and a sense of foreboding. The boy, dressed in tattered clothing, stands behind the boulders, grasping a fallen branch. The tiger, a menacing predator, waits on the other side of the boulders, its eyes fixed on the boy. The composition should emphasize the boy's vulnerability and the tiger's power. Colors should be muted, with shades of green and brown dominating the scene. The mood should be tense and ominous, with a sense of impending danger.",
+      "negative_prompt": "happy, sunny, peaceful",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "heavy breathing",
+        "distant roar"
+      ],
+      "ambient_sounds": [
+        "wind rustling through trees",
+        "distant bird calls"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "survival",
+        "wilderness",
+        "tiger"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_2539b1d8_scene_03",
+      "story_id": "story_2539b1d8",
+      "sequence_number": 3,
+      "title": "Trapped in the Pit",
+      "setting": {
+        "location": "an enclosed area",
+        "time_of_day": "unknown",
+        "weather": "overcast or rainy",
+        "atmosphere": "ominous and foreboding",
+        "lighting": "dim and eerie"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fearful",
+          "action": "clutching a branch",
+          "location_in_scene": "standing in the enclosed area"
+        }
+      ],
+      "narration_text": "The air inside the enclosed area was thick with the scent of damp earth and decaying leaves. The ground beneath his feet started to shift.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A dimly lit, eerie forest scene with a boy standing in a hidden pit, clutching a branch for support. The air is thick with the scent of damp earth and decaying leaves. The ground beneath him is shifting, and the atmosphere is ominous and foreboding. Art style: dark and muted, with muted greens and browns. Lighting: dim and eerie, with shadows cast across the scene. Composition: the boy is centered in the frame, with the pit and surrounding foliage blurred in the background. Colors: muted greens, browns, and grays. Mood: ominous and foreboding. Scene elements: a hidden pit, a boy, a branch, damp earth, decaying leaves.",
+      "negative_prompt": "bright colors, happy atmosphere, clear lighting",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "ground shifting",
+        "damp earth sound"
+      ],
+      "ambient_sounds": [
+        "distant rain",
+        "crickets"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "fear",
+        "adventure",
+        "mystery"
+      ],
+      "duration_estimate": 10.5,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_2539b1d8_scene_04",
+      "story_id": "story_2539b1d8",
+      "sequence_number": 4,
+      "title": "Falling into the Abyss",
+      "setting": {
+        "location": "forest",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense and foreboding",
+        "lighting": "dappled with shadows"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fearful",
+          "action": "stumbling backwards, trying to regain balance, falling, scrambling to feet",
+          "location_in_scene": "forest floor"
+        },
+        {
+          "name": "the tiger",
+          "emotion": "menacing",
+          "action": "roaring",
+          "location_in_scene": "unknown"
+        }
+      ],
+      "narration_text": "The boy's eyes widened as he stumbled backwards, desperately trying to regain his balance. His foot caught on a hidden root, and he fell hard onto the unforgiving ground, the branch slipping from his grasp. The sound of the tiger's roar seemed to grow louder, and the boy knew he had to move, but as he scrambled to his feet, he saw that the pit was now exposed, a deep and seemingly bottomless chasm stretching out before him.",
+      "dialogue": [],
+      "emotional_tone": "fearful",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dark and ominous forest scene with a boy stumbling backwards in fear. The boy is dressed in worn clothing and has a look of terror on his face. In the background, a tiger's roar echoes through the trees. The lighting is dappled with shadows, and the atmosphere is tense and foreboding. The pit is a deep and seemingly bottomless chasm stretching out before the boy. The art style is realistic with a focus on capturing the fear and tension in the scene.",
+      "negative_prompt": "no happy ending, no rescue",
+      "narration_style": "urgent",
+      "music_mood": "intense and ominous",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "tiger's roar",
+        "branch snapping",
+        "footsteps"
+      ],
+      "ambient_sounds": [
+        "forest sounds",
+        "distant howling"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "survival",
+        "fear",
+        "tension"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

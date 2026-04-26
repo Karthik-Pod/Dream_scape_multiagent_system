@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "sare naa maddagudu",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "melancholic",
+      "text": "As she stood alone in the vast, open landscape, the warm beige sand beneath her feet seemed to swallow her whole. The soft blues of the sky above whispered secrets she couldn't quite decipher. Sare's eyes, a deep shade of brown that seemed almost black in the fading light, gazed out at the horizon, her thoughts a thousand miles away. 'Maddagudu,' she whispered to herself, the word echoing in her mind like a mantra. It was a word from her childhood, one her grandmother used to tell stories of old. Stories of love, loss, and longing. Sare's heart felt heavy with the weight of her own longing, a sense of disconnection from the world around her. She took a deep breath, the air filling her lungs with the scent of distant rain, and began to walk, her footsteps carrying her toward the unknown."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "tense",
+      "text": "As Sare walked, the sky began to darken, and the air grew thick with an eerie, unsettling energy. The scent of rain gave way to a smell of damp earth and decay. Suddenly, a figure emerged from the shadows, its presence seeming to draw the very light out of the air. Sare's heart quickened as the figure drew closer, its features indistinct, shrouded in a hood that cast a deep, impenetrable shadow over its face. The word 'Maddagudu' echoed in Sare's mind once more, this time with a sense of warning, as if her grandmother's stories had been trying to prepare her for this moment. The figure halted a short distance away, its gaze fixed intently on Sare, and then, in a voice that was barely audible over the rising wind, it spoke a single, chilling word: 'Sarena.'"
+    }
+  ]
+}

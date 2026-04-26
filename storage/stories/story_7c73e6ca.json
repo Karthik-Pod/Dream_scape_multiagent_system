@@ -1,0 +1,27 @@
+{
+  "initial_prompt": "a man on a mountain",
+  "total_rounds": 3,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "mysterious",
+      "text": "As the man climbed higher, the air grew thinner, and the silence was almost palpable. He had been on this mountain for days, searching for a place to clear his mind, but now his attention was drawn to a strange object in the distance. It was a door, seemingly embedded in the mountain itself, with intricate carvings that glinted in the fading light. The man's curiosity was piqued; what could be the purpose of a door on a remote mountain? He quickened his pace, his footsteps echoing off the rocks as he approached the mysterious entrance. Suddenly, the wind picked up, and the door creaked, as if inviting him to open it. The man's heart beat faster as he reached out to touch the door's rusty handle, wondering what secrets lay beyond."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "rising_action",
+      "emotional_tone": "ominous",
+      "text": "As the man's hand wrapped around the rusty handle, a sudden gust of wind slammed the door open, revealing a dimly lit chamber. The air inside was stale, and the smell of old books wafted out. The man's eyes adjusted to the darkness, and he stepped inside, his footsteps echoing off the cold stone walls. The chamber was small, with shelves lining the walls, packed tightly with ancient tomes and strange artifacts. At the far end of the room, a figure sat hunched over a desk, surrounded by candles that cast flickering shadows on the walls. The figure slowly looked up, and the man saw that it was an old woman with piercing green eyes that seemed to bore into his soul. She beckoned him closer, her voice barely above a whisper, 'I have been waiting for you,' she said, her words sending shivers down the man's spine."
+    },
+    {
+      "round": 3,
+      "agent": "CharacterAgent",
+      "arc_stage": "falling_action",
+      "emotional_tone": "tense",
+      "text": "The man's eyes locked onto the old woman's, his mind racing with questions. 'Waiting for me?' he repeated, his voice barely above a whisper, as if he feared breaking the spell that had been cast. The old woman's gaze didn't waver, her piercing green eyes seeming to see right through him. She nodded, a small, enigmatic smile playing on her lips. 'Yes, I have been expecting you,' she said, her voice low and mysterious. 'You have come seeking answers, but are you prepared for the truth?' The man felt a shiver run down his spine as he stepped closer, his curiosity getting the better of him. 'What truth?' he asked, his voice a little stronger now, as he tried to hide the unease that was growing inside him. The old woman's smile grew, and she leaned back in her chair, her eyes never leaving his face."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "DreamScape API",
+      "runtimeExecutable": "uvicorn",
+      "runtimeArgs": ["backend.dreamscape_api:app", "--reload", "--port", "8000"],
+      "port": 8000
+    },
+    {
+      "name": "DreamScape Frontend",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "frontend",
+      "port": 5173
+    },
+    {
+      "name": "DreamScape Pipeline Runner (ComfyUI + Main)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["backend/run.py"],
+      "port": 8188
+    },
+    {
+      "name": "DreamScape CLI Pipeline",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["backend/main.py"],
+      "port": null
+    }
+  ]
+}

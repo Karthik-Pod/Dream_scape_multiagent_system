@@ -1,0 +1,185 @@
+{
+  "story_id": "story_45e3f2ec",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_45e3f2ec_scene_01",
+      "story_id": "story_45e3f2ec",
+      "sequence_number": 1,
+      "title": "Eldric's Inner Turmoil",
+      "setting": {
+        "location": "Eldric's chambers",
+        "time_of_day": "unknown",
+        "weather": "indoor, cold",
+        "atmosphere": "tense, foreboding",
+        "lighting": "dark, dim"
+      },
+      "characters": [
+        {
+          "name": "Eldric",
+          "emotion": "doubtful, uncertain",
+          "action": "standing before a mirror, whispering to himself",
+          "location_in_scene": "in front of a mirror in his chambers"
+        }
+      ],
+      "narration_text": "As he stood before the cold, dark mirror in his chambers, he couldn't help but feel an overwhelming sense of doubt creeping in. His eyes, once bright with the promise of a future king, now seemed dull and uncertain. The weight of his birthright felt like a physical force, pressing down upon him. He thought of all the expectations, the duties, the responsibilities that came with the throne. Eldric's mind was a maelstrom of conflicting emotions - fear, anxiety, and a deep-seated desire to prove himself worthy. He took a deep breath, trying to calm the turmoil within, but the question lingered: 'Am I ready to rule?'",
+      "dialogue": [
+        {
+          "character": "Eldric",
+          "text": "Is this truly my destiny?",
+          "emotion": "doubtful"
+        },
+        {
+          "character": "Eldric",
+          "text": "Am I ready to rule?",
+          "emotion": "uncertain"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dark, dimly lit chamber with a cold, dark mirror in the center. The walls are made of stone, with a faint glow of candlelight emanating from the edges. Eldric, a young prince with a troubled expression, stands before the mirror, his eyes cast downward in doubt. His attire is regal, but his posture conveys uncertainty. The atmosphere is tense, with a sense of foreboding hanging in the air. The color palette is muted, with shades of gray and blue dominating the scene. The mood is ominous, with a sense of impending doom.",
+      "negative_prompt": "bright colors, cheerful atmosphere",
+      "narration_style": "calm",
+      "music_mood": "dark, ambient electronic with a hint of orchestral strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "echoing sound",
+        "candlelight flicker"
+      ],
+      "ambient_sounds": [
+        "distant, muffled voices",
+        "creaking wooden floorboards"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "doubt",
+        "uncertainty",
+        "royalty"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_45e3f2ec_scene_02",
+      "story_id": "story_45e3f2ec",
+      "sequence_number": 2,
+      "title": "A Glimpse of Wisdom",
+      "setting": {
+        "location": "Eldric's residence",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "somber, contemplative",
+        "lighting": "soft, warm"
+      },
+      "characters": [
+        {
+          "name": "Eldric",
+          "emotion": "troubled, uncertain",
+          "action": "sitting in silence, deep in thought",
+          "location_in_scene": "in his residence"
+        },
+        {
+          "name": "Old Man",
+          "emotion": "wise, kind",
+          "action": "knocking at the door, entering the residence",
+          "location_in_scene": "at the door, then inside the residence"
+        }
+      ],
+      "narration_text": "Just as Eldric's thoughts seemed to be spiraling out of control, a soft knock at the door broke the silence. It was an old man, dressed in simple yet elegant attire, with a long white beard and piercing blue eyes that seemed to see right through to Eldric's soul. 'Your Highness,' the old man said, his voice low and soothing, 'I see you are troubled. May I have the privilege of speaking with you?' Eldric, sensing a deep wisdom and kindness in the stranger, nodded, and the old man entered, closing the door behind him.",
+      "dialogue": [
+        {
+          "character": "Old Man",
+          "text": "'Your Highness,' the old man said, his voice low and soothing, 'I see you are troubled. May I have the privilege of speaking with you?'",
+          "emotion": "kind, gentle"
+        },
+        {
+          "character": "Eldric",
+          "text": "nodded",
+          "emotion": "submissive, open"
+        }
+      ],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 4,
+      "visual_prompt": "A warm, golden-lit scene with soft focus, set in a dimly lit, elegant room. The old man stands with a gentle smile, his piercing blue eyes locked on Eldric's troubled face. Eldric sits in a chair, his head in his hands, his back to the old man. The atmosphere is one of contemplation and wisdom, with a hint of mystery. The colors are muted, with warm golden tones and deep blues. The composition is simple, with a focus on the two characters.",
+      "negative_prompt": "dark, ominous, chaotic",
+      "narration_style": "calm",
+      "music_mood": "mellow, acoustic guitar with a hint of mysticism",
+      "music_tempo": "slow",
+      "sfx_cues": [],
+      "ambient_sounds": [],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "wisdom",
+        "kindness",
+        "hope",
+        "mystery"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_45e3f2ec_scene_03",
+      "story_id": "story_45e3f2ec",
+      "sequence_number": 3,
+      "title": "A Stranger's Guidance",
+      "setting": {
+        "location": "a royal court or castle",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "formal, yet intimate",
+        "lighting": "soft, warm"
+      },
+      "characters": [
+        {
+          "name": "Gorin",
+          "emotion": "calm, wise",
+          "action": "speaking, offering guidance",
+          "location_in_scene": "standing before Eldric"
+        },
+        {
+          "name": "Eldric",
+          "emotion": "anxious, uncertain",
+          "action": "listening, seeking guidance",
+          "location_in_scene": "standing before Gorin"
+        }
+      ],
+      "narration_text": "Gorin's words were like a balm to Eldric's frazzled nerves, and he found himself wanting to open up to this stranger, to unburden his heart and seek wisdom.",
+      "dialogue": [
+        {
+          "character": "Gorin",
+          "text": "I am Gorin, a former advisor to your father, the king. I have been watching you from afar, and I must say, you are at a crossroads. The path ahead of you is fraught with challenges, but with the right guidance, you can overcome them.",
+          "emotion": "calm, reassuring"
+        }
+      ],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 3,
+      "visual_prompt": "A warm, golden-lit scene of a young king (Eldric) standing before a wise, older man (Gorin) in a grand, ornate throne room. The atmosphere is one of calm, introspection, with a hint of uncertainty. The color palette should be muted, with warm tones dominating. The composition should focus on the two characters, with the throne room fading into the background. The mood should be one of hope and guidance.",
+      "negative_prompt": "dark, ominous, chaotic",
+      "narration_style": "calm",
+      "music_mood": "mellow, acoustic guitar with a hint of strings",
+      "music_tempo": "moderate",
+      "sfx_cues": [],
+      "ambient_sounds": [],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "advice",
+        "guidance",
+        "king"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

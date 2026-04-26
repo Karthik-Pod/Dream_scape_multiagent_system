@@ -1,0 +1,173 @@
+{
+  "story_id": "story_c8b59c91",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_c8b59c91_scene_01",
+      "story_id": "story_c8b59c91",
+      "sequence_number": 1,
+      "title": "The Waiting Druid",
+      "setting": {
+        "location": "forest",
+        "time_of_day": "unknown",
+        "weather": "windy",
+        "atmosphere": "eerie",
+        "lighting": "natural"
+      },
+      "characters": [
+        {
+          "name": "man",
+          "emotion": "anticipatory",
+          "action": "waiting",
+          "location_in_scene": "center"
+        }
+      ],
+      "narration_text": "A man waits in a forest, anticipating the arrival of Merlin. The wind picks up, rustling the leaves and sending eerie whispers through the forest.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A mystical forest scene with a lone man standing in the center, surrounded by tall trees and underbrush. The atmosphere is eerie and mysterious, with an emphasis on natural lighting and the rustling of leaves. The man should be dressed in attire fitting of a druid or wizard, with a look of anticipation on his face. The color palette should be muted, with shades of green and brown dominating the scene. In the background, subtle hints of magic or mysticism could be hinted at, such as glowing mushrooms or an ethereal glow.",
+      "negative_prompt": "clear skies, bright sunlight, modern architecture",
+      "narration_style": "calm",
+      "music_mood": "mysterious ambient with subtle hints of mysticism",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "wind rustling through leaves",
+        "eerie whispers"
+      ],
+      "ambient_sounds": [
+        "forest sounds",
+        "distant howling"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "fantasy",
+        "mystery",
+        "waiting"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_c8b59c91_scene_02",
+      "story_id": "story_c8b59c91",
+      "sequence_number": 2,
+      "title": "Emergence from the Mist",
+      "setting": {
+        "location": "Misty landscape",
+        "time_of_day": "unknown",
+        "weather": "Misty",
+        "atmosphere": "Ominous",
+        "lighting": "Low-light, with shadows"
+      },
+      "characters": [
+        {
+          "name": "Merlin",
+          "emotion": "Neutral",
+          "action": "Approaching",
+          "location_in_scene": "Emerging from the mist"
+        },
+        {
+          "name": "The Man",
+          "emotion": "Fearful",
+          "action": "Watching",
+          "location_in_scene": "Observing from a distance"
+        }
+      ],
+      "narration_text": "Suddenly, a figure emerges from the mist, cloaked in shadows. The man's heart skips a beat as the figure approaches, its features slowly becoming discernible. It's Merlin, his long white beard and hair a stark contrast to the darkness surrounding him.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A mystical, low-light scene with a figure emerging from mist, set in a misty landscape. The figure, Merlin, is cloaked in shadows with a long white beard and hair. The atmosphere is ominous, with a sense of foreboding. The composition should feature Merlin in the center, with the mist swirling around him. The colors should be muted, with shades of grey and blue dominating the palette. The mood should be suspenseful, with a sense of anticipation building. Include subtle lighting effects to emphasize the shadows and mist.",
+      "negative_prompt": "Bright, cheerful, or overly detailed",
+      "narration_style": "calm",
+      "music_mood": "Dark, mystical ambient music with a hint of mystery",
+      "music_tempo": "Slow",
+      "sfx_cues": [
+        "Mist swirling sound",
+        "Footsteps in the distance"
+      ],
+      "ambient_sounds": [
+        "Crickets chirping",
+        "Wind rustling through trees"
+      ],
+      "arc_stage": "Rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "Fantasy",
+        "Mystery",
+        "Suspense"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_c8b59c91_scene_03",
+      "story_id": "story_c8b59c91",
+      "sequence_number": 3,
+      "title": "The Enigmatic Encounter",
+      "setting": {
+        "location": "a dimly lit, possibly mystical or ancient setting",
+        "time_of_day": "unknown",
+        "weather": "gloomy",
+        "atmosphere": "mysterious, foreboding",
+        "lighting": "low, with an emphasis on shadows"
+      },
+      "characters": [
+        {
+          "name": "Merlin",
+          "emotion": "intense, mysterious",
+          "action": "regarding the man with an otherworldly gaze",
+          "location_in_scene": "center, with the man in focus"
+        },
+        {
+          "name": "the man",
+          "emotion": "trepidation, uncertainty",
+          "action": "swallowing hard, looking uncertain",
+          "location_in_scene": "opposite Merlin, with Merlin's gaze on him"
+        }
+      ],
+      "narration_text": "Merlin's eyes gleam with an otherworldly intensity as he regards the man, his gaze piercing through the gloom. He asks if the man is prepared for what is to come, and the man swallows hard, sensing that his encounter with Merlin may not be what he expected.",
+      "dialogue": [
+        {
+          "character": "Merlin",
+          "text": "You have been waiting, but are you prepared for what is to come?",
+          "emotion": "mysterious, intense"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A dimly lit, mystical setting with an otherworldly atmosphere. Merlin, a wise and intense wizard, stands at the center, his eyes gleaming with an otherworldly intensity. The man, looking uncertain and trepidation, stands opposite him. The lighting is low, with an emphasis on shadows, and the colors are muted, with an emphasis on blues and purples. The mood is ominous and foreboding, with a sense of mystery and anticipation.",
+      "negative_prompt": "bright, cheerful, happy",
+      "narration_style": "dramatic",
+      "music_mood": "dark, ambient, with a hint of mysticism",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "creaking doors",
+        "howling wind"
+      ],
+      "ambient_sounds": [
+        "distant, mournful chanting"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "magic",
+        "mystery",
+        "encounter"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

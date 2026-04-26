@@ -1,0 +1,224 @@
+{
+  "story_id": "story_89f409a8",
+  "total_scenes": 4,
+  "scenes": [
+    {
+      "scene_id": "story_89f409a8_scene_01",
+      "story_id": "story_89f409a8",
+      "sequence_number": 1,
+      "title": "The Forgotten Boy",
+      "setting": {
+        "location": "a desolate road",
+        "time_of_day": "unknown",
+        "weather": "windy",
+        "atmosphere": "desolate and ominous",
+        "lighting": "natural, with the sun possibly setting or rising"
+      },
+      "characters": [
+        {
+          "name": "The Boy",
+          "emotion": "confused and fearful",
+          "action": "waking up and walking down the road",
+          "location_in_scene": "on the road"
+        }
+      ],
+      "narration_text": "As the boy struggles to remember anything about himself, he notices a piece of paper clutched in his hand. Unfurling his fingers, he finds a crumpled note with a single phrase scribbled on it: 'They're looking for you.' The words send a shiver down his spine, and he looks around nervously, wondering who might be searching for him and why. The desolate landscape seems to stretch on forever, offering no answers. With a surge of adrenaline, the boy starts to move down the road, driven by a desperate need to find shelter, food, and most importantly, his memories. The wind picks up, whipping his hair into a frenzy as he walks, the only sound being the soft crunch of gravel beneath his feet.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A gritty, realistic image of a boy walking down a desolate road, with a crumpled note in his hand. The sky is a dull grey, with the sun possibly setting or rising. The wind is whipping his hair into a frenzy, and the only sound is the soft crunch of gravel beneath his feet. The atmosphere is ominous and foreboding, with a sense of danger lurking in the distance. The boy's expression is one of fear and confusion, with a hint of determination in his eyes.",
+      "negative_prompt": "no bright colors, no smiling faces, no happy atmosphere",
+      "narration_style": "calm",
+      "music_mood": "dark and ominous ambient electronic",
+      "music_tempo": "slow and building",
+      "sfx_cues": [
+        "wind howling",
+        "gravel crunching"
+      ],
+      "ambient_sounds": [
+        "wind rustling through trees"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "adventure",
+        "lost"
+      ],
+      "duration_estimate": 120.0,
+      "image_path": "./storage\\images\\story_89f409a8_scene_01.png",
+      "audio_path": "./storage\\audio\\story_89f409a8_scene_01_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_89f409a8_scene_02",
+      "story_id": "story_89f409a8",
+      "sequence_number": 2,
+      "title": "The Watcher in the Wilderness",
+      "setting": {
+        "location": "a desolate, open landscape",
+        "time_of_day": "dusk",
+        "weather": "calm, with a dying wind",
+        "atmosphere": "unsettling, ominous",
+        "lighting": "dim, with long shadows"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "cautious, worried",
+          "action": "trudging forward, looking around",
+          "location_in_scene": "in the distance from the figure"
+        },
+        {
+          "name": "the figure in the dark coat",
+          "emotion": "enigmatic, possibly menacing",
+          "action": "standing still, watching the boy",
+          "location_in_scene": "by a crooked tree"
+        }
+      ],
+      "narration_text": "As the boy trudges on, the wind dies down, and an unsettling silence falls over the landscape. In the distance, he notices a figure standing by a crooked tree, its branches like withered fingers reaching towards the sky. The figure, dressed in a long, dark coat, seems to be watching him. The boy's heart quickens as he wonders if this person might be connected to the note in his hand.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A haunting, muted-toned oil painting of a desolate landscape at dusk. The sky is a deep orange, with long shadows stretching across the ground. In the distance, a figure in a long, dark coat stands by a twisted, dead tree, its branches reaching up like skeletal fingers. The boy, in the foreground, looks back over his shoulder, his face tense with worry. The atmosphere is heavy with foreboding, and the mood is ominous.",
+      "negative_prompt": "vibrant colors, bright sunlight, happy atmosphere",
+      "narration_style": "calm",
+      "music_mood": "dark, ambient, with a hint of foreboding",
+      "music_tempo": "slow, building",
+      "sfx_cues": [
+        "creaking tree branches",
+        "distant howling wind"
+      ],
+      "ambient_sounds": [
+        "crickets chirping",
+        "distant, mournful wind"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "suspense",
+        "adventure"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": "./storage\\images\\story_89f409a8_scene_02.png",
+      "audio_path": "./storage\\audio\\story_89f409a8_scene_02_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_89f409a8_scene_03",
+      "story_id": "story_89f409a8",
+      "sequence_number": 3,
+      "title": "Fateful Encounter",
+      "setting": {
+        "location": "Unknown/Outdoor",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "Tense/Anticipatory",
+        "lighting": "Natural Light/Dappled"
+      },
+      "characters": [
+        {
+          "name": "The Boy",
+          "emotion": "Trepidation/Hope",
+          "action": "Walking/Picking up pace",
+          "location_in_scene": "Approaching the figure"
+        },
+        {
+          "name": "The Figure",
+          "emotion": "Unknown",
+          "action": "Standing/Not moving",
+          "location_in_scene": "Waiting/Stationary"
+        }
+      ],
+      "narration_text": "With a mix of trepidation and hope, he picks up his pace, his eyes fixed on the figure. As he draws closer, the figure doesn't move, its face obscured by the hood of the coat. The boy can feel a sense of anticipation building up inside him, as if his entire existence depends on this encounter.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 8,
+      "visual_prompt": "A young boy in a dimly lit, misty outdoor setting, walking towards a hooded figure with an air of anticipation. The boy's face is filled with a mix of emotions, while the figure remains still and mysterious. The color palette should be muted with shades of grey and blue. The composition should emphasize the boy's movement and the figure's enigmatic presence. The mood should be suspenseful and foreboding.",
+      "negative_prompt": "Bright colors, clear visibility of the figure's face, a peaceful atmosphere",
+      "narration_style": "calm",
+      "music_mood": "Ominous/Intriguing ambient electronic with a hint of mystery",
+      "music_tempo": "Moderate",
+      "sfx_cues": [
+        "Footsteps",
+        "Wind",
+        "Clothing rustling"
+      ],
+      "ambient_sounds": [
+        "Distant wind",
+        "Muted city sounds"
+      ],
+      "arc_stage": "Rising Action",
+      "source_agent": "unknown",
+      "tags": [
+        "Suspense",
+        "Mystery",
+        "Coming of age"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": "./storage\\images\\story_89f409a8_scene_03.png",
+      "audio_path": "./storage\\audio\\story_89f409a8_scene_03_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_89f409a8_scene_04",
+      "story_id": "story_89f409a8",
+      "sequence_number": 4,
+      "title": "A Glimpse of Fear",
+      "setting": {
+        "location": "Unknown",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "ominous",
+        "lighting": "low-light"
+      },
+      "characters": [
+        {
+          "name": "The Figure",
+          "emotion": "menacing",
+          "action": "raising its head",
+          "location_in_scene": "near the boy"
+        },
+        {
+          "name": "The Boy",
+          "emotion": "fearful",
+          "action": "seeing the figure",
+          "location_in_scene": "in the same room as the figure"
+        }
+      ],
+      "narration_text": "The figure slowly raises its head, and the boy sees a glimpse of piercing green eyes, which seem to bore into his very soul.",
+      "dialogue": [],
+      "emotional_tone": "fearful",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dimly lit room with a figure slowly raising its head, revealing piercing green eyes that seem to bore into the soul of a young boy in the foreground. Art style: dark and moody, with heavy shadows and muted colors. Composition: the figure should be centered, with the boy off to the side, looking up in fear. Mood: ominous and foreboding. Scene elements: a faint glow in the background to hint at an unknown presence.",
+      "negative_prompt": "bright colors, cheerful atmosphere",
+      "narration_style": "calm",
+      "music_mood": "ominous ambient with distant, pulsing strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "creaking door",
+        "distant howling"
+      ],
+      "ambient_sounds": [
+        "distant wind",
+        "creaking wooden floorboards"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "horror",
+        "mystery",
+        "fear"
+      ],
+      "duration_estimate": 15.0,
+      "image_path": "./storage\\images\\story_89f409a8_scene_04.png",
+      "audio_path": "./storage\\audio\\story_89f409a8_scene_04_mixed.wav",
+      "video_path": null
+    }
+  ]
+}

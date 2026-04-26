@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "man",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the man stood there, the warm sunlight peeking through the partially cloudy sky cast long shadows across the desolate landscape. The silence was almost palpable, broken only by the occasional rustle of leaves in the lone tree's twisted branches. The man's gaze followed the dirt road as it stretched out into the horizon, his eyes squinting against the bright light. He seemed frozen in place, as if waiting for something or someone to break the stillness. Suddenly, a faint plume of dust appeared on the horizon, growing larger with each passing moment. The man's eyes locked onto the dust cloud, his expression unreadable. The air was thick with anticipation as the man waited to see what was approaching."
+    }
+  ]
+}

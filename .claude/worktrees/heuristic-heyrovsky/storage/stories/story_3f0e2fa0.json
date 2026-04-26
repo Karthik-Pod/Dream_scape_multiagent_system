@@ -1,0 +1,27 @@
+{
+  "initial_prompt": "man in forrest",
+  "total_rounds": 3,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "mysterious",
+      "text": "The man's eyes snapped towards the sound, his brow furrowed in a mix of confusion and caution. He slowly rose from his crouch, his movements fluid but deliberate. As he crept forward, the rustling of leaves beneath his feet seemed to echo through the forest like a warning. The air was heavy with the scent of damp earth and decaying vegetation, and the man's nostrils flared as he took in the unfamiliar aroma. 'What's going on?' he muttered to himself, his voice barely above a whisper. He froze, his senses on high alert, as a faint whisper seemed to caress his ear. 'Shh... come closer.' The man's heart quickened, and he felt a shiver run down his spine."
+    },
+    {
+      "round": 2,
+      "agent": "CharacterAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "mysterious",
+      "text": "The man's eyes locked onto some unseen point, his gaze piercing the darkness as he took a cautious step forward. The whisper seemed to grow louder, more urgent, and he felt an inexplicable pull towards its source. 'Who are you?' he called out, his voice low and controlled, but with a hint of curiosity. The whisper fell silent, and the man's ears strained to pick up any sound, but the forest held its breath in anticipation. A faint rustling came from the underbrush, and a figure emerged from the darkness, its features indistinct until the moonlight caught it. The man's heart skipped a beat as he took in the sight of a woman, her long hair tangled and dirty, her eyes gleaming with a mixture of fear and determination."
+    },
+    {
+      "round": 3,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "hopeful",
+      "text": "The man's eyes locked onto the woman, his gaze piercing but controlled. 'What's your name?' he asked, his voice firm but laced with curiosity. The woman hesitated, her eyes darting back and forth as if searching for an escape route or a hidden ally. She took a step back, her hands instinctively rising to shield her face, and the man's grip on his instincts faltered. 'It's okay,' he reassured, his voice a gentle whisper, 'I won't hurt you.' The woman's eyes snapped back to his, a flash of fear and wariness dancing in their depths. She seemed to weigh her options, her chest rising and falling with each ragged breath. 'Lila,' she whispered finally, her voice barely audible over the rustling of leaves. The man's gut twisted with a mix of emotions as he processed her name, his mind racing with questions and doubts."
+    }
+  ]
+}

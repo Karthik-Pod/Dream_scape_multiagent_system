@@ -1,0 +1,194 @@
+{
+  "story_id": "story_66ba3cc1",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_66ba3cc1_scene_01",
+      "story_id": "story_66ba3cc1",
+      "sequence_number": 1,
+      "title": "A Perfect Sunset Moment",
+      "setting": {
+        "location": "bedroom",
+        "time_of_day": "dusk",
+        "weather": "clear",
+        "atmosphere": "romantic",
+        "lighting": "warm, golden"
+      },
+      "characters": [
+        {
+          "name": "Emily",
+          "emotion": "grateful, loving",
+          "action": "turning to Jack, smiling",
+          "location_in_scene": "bedroom window"
+        },
+        {
+          "name": "Jack",
+          "emotion": "loving, adoring",
+          "action": "reaching out, touching Emily's hair",
+          "location_in_scene": "bedroom window"
+        }
+      ],
+      "narration_text": "As they sat together, watching the sunset through their bedroom window, Emily turned to Jack with a gentle smile. Emily's eyes locked onto Jack's, and she felt her heart swell with love and adoration. He reached out, gently brushing a strand of hair behind her ear, his touch sending shivers down her spine. Emily's eyes sparkled with tears as she leaned into his touch, feeling the depth of their connection.",
+      "dialogue": [
+        {
+          "character": "Emily",
+          "text": "I'm so grateful for nights like this",
+          "emotion": "whispered, gentle"
+        },
+        {
+          "character": "Jack",
+          "text": "Me too",
+          "emotion": "filled with emotion"
+        },
+        {
+          "character": "Jack",
+          "text": "I feel like we're exactly where we're meant to be",
+          "emotion": "filled with emotion"
+        }
+      ],
+      "emotional_tone": "mysterious",
+      "pacing": "slow",
+      "tension_level": 2,
+      "visual_prompt": "A warm, golden sunset in a cozy bedroom, with a loving couple embracing. Soft, gentle lighting, with a focus on the couple's faces and the romantic atmosphere. Art style: realistic, with a touch of warmth and intimacy. Composition: the couple is centered, with the sunset behind them. Colors: warm oranges, yellows, and pinks. Mood: peaceful, loving, and hopeful.",
+      "negative_prompt": "dark, gritty, or disturbing imagery",
+      "narration_style": "calm",
+      "music_mood": "soft, acoustic guitar with a touch of piano",
+      "music_tempo": "slow",
+      "sfx_cues": [],
+      "ambient_sounds": [],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "romance",
+        "love",
+        "sunset"
+      ],
+      "duration_estimate": 60.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_66ba3cc1_scene_02",
+      "story_id": "story_66ba3cc1",
+      "sequence_number": 2,
+      "title": "Fading Tranquility",
+      "setting": {
+        "location": "a quiet, intimate setting (implied by the presence of Jack and Emily)",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tranquil, with a sense of impending unease",
+        "lighting": "soft, warm, and intimate"
+      },
+      "characters": [
+        {
+          "name": "Emily",
+          "emotion": "longing, scared",
+          "action": "sitting, speaking",
+          "location_in_scene": "center of the scene"
+        },
+        {
+          "name": "Jack",
+          "emotion": "concerned",
+          "action": "sitting, speaking",
+          "location_in_scene": "center of the scene"
+        }
+      ],
+      "narration_text": "The tranquility of the moment began to falter. Emily's eyes clouded with a sense of longing. Jack sensed the change in her demeanor and pulled back, his hand releasing her ear. Emily took a deep breath before speaking.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "text": "'What's wrong?'",
+          "emotion": "concerned"
+        },
+        {
+          "character": "Emily",
+          "text": "'I just...I wish we could keep this feeling, this sense of perfectness. I'm scared of what's to come.'",
+          "emotion": "longing, scared"
+        }
+      ],
+      "emotional_tone": "melancholic",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A soft, warm, and intimate scene with a sense of impending unease. Emily and Jack sit together, their faces lit by a warm glow. Emily's eyes are clouded with longing, and Jack's expression is concerned. The background is blurred, with a hint of darkness creeping in. The colors are muted, with a focus on blues and greys. The mood is melancholic and introspective.",
+      "negative_prompt": "happy, upbeat, bright colors",
+      "narration_style": "calm",
+      "music_mood": "mellow, acoustic guitar with a hint of sadness",
+      "music_tempo": "slow",
+      "sfx_cues": [],
+      "ambient_sounds": [],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "romance",
+        "intimacy",
+        "longing",
+        "fear"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_66ba3cc1_scene_03",
+      "story_id": "story_66ba3cc1",
+      "sequence_number": 3,
+      "title": "A Silent Promise",
+      "setting": {
+        "location": "Unknown",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "intimate",
+        "lighting": "soft"
+      },
+      "characters": [
+        {
+          "name": "Jack",
+          "emotion": "helpless",
+          "action": "reaching out, taking her hand",
+          "location_in_scene": "with her"
+        },
+        {
+          "name": "her",
+          "emotion": "anxious",
+          "action": "being comforted",
+          "location_in_scene": "with Jack"
+        }
+      ],
+      "narration_text": "Jack's expression softened as he realized the roots of her anxiety lay deeper than just their relationship. He knew she'd been struggling with her own fears and doubts, and in this moment, he felt helpless to ease her pain. He reached out, taking her hand in his, the gentle pressure a silent promise of support.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "text": "We'll face whatever comes next together.",
+          "emotion": "conviction"
+        }
+      ],
+      "emotional_tone": "hopeful",
+      "pacing": "medium",
+      "tension_level": 3,
+      "visual_prompt": "A warm, golden-lit scene with a soft focus. Jack and her are in a quiet, intimate setting, with a subtle background of trees or a garden. The lighting is warm and gentle, with a focus on the emotional connection between the two characters. The colors are muted, with a focus on earthy tones. The mood is hopeful and reassuring.",
+      "negative_prompt": "harsh lighting, dark colors, cold atmosphere",
+      "narration_style": "calm",
+      "music_mood": "mellow acoustic guitar with a gentle piano accompaniment",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "gentle rustling of leaves"
+      ],
+      "ambient_sounds": [
+        "soft wind"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "romance",
+        "comfort",
+        "hope"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

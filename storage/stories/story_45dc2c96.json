@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "kf",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "hopeful",
+      "text": "As she stepped out of her small apartment and into the crisp dawn air, Maya felt an overwhelming sense of determination. She had one goal in mind: to find the elusive artist known only by their pseudonym, 'Erebus,' who was rumored to be hiding in the city. Maya had been searching for months, scouring every art gallery, street corner, and underground forum for any hint of Erebus's whereabouts. Her latest lead had brought her to the city's vibrant art district, where she hoped to finally track down the mysterious artist and convince them to collaborate on a project that could change her life. With a deep breath, Maya set off into the awakening city, her eyes scanning the rooftops and alleyways for any sign of the elusive Erebus."
+    }
+  ]
+}

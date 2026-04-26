@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "boy running in a city",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "The boy's feet pounded the pavement, his breath coming in ragged gasps as he dodged pedestrians and weaved through alleys. He clutched a small backpack to his chest, his eyes darting over his shoulder as if he expected someone to be following him. 'I have to get out of here,' he muttered to himself, his voice barely audible over the din of the city. Suddenly, he skidded to a stop, his eyes locking onto a narrow stairway leading down into darkness. For a moment, he hesitated, then took the stairs two at a time, disappearing into the shadows. 'Please, please, please,' he whispered, his voice trembling with fear."
+    }
+  ]
+}

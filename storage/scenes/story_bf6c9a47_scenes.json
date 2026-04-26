@@ -1,0 +1,64 @@
+{
+  "story_id": "story_bf6c9a47",
+  "total_scenes": 1,
+  "scenes": [
+    {
+      "scene_id": "story_bf6c9a47_scene_01",
+      "story_id": "story_bf6c9a47",
+      "sequence_number": 1,
+      "title": "Zhra'gha's Intergalactic Dance",
+      "setting": {
+        "location": "intergalactic nightclub",
+        "time_of_day": "night",
+        "weather": "unknown",
+        "atmosphere": "electric, vibrant",
+        "lighting": "strobes, pulsating lights"
+      },
+      "characters": [
+        {
+          "name": "Zhra'gha",
+          "emotion": "excitement, joy",
+          "action": "dancing, scanning the room",
+          "location_in_scene": "in the crowd"
+        }
+      ],
+      "narration_text": "Zhra'gha stepped into the nightclub, her eyes scanning the room with excitement. The air was electric with conversation and music. She dove into the crowd, her tail flicking, and her iridescent scales shimmering under the strobe lights. She weaved through the alien crowd, taking in the strange creatures. As she danced, her antennae twitched with joy, and she felt a sense of freedom.",
+      "dialogue": [
+        {
+          "character": "Zhra'gha",
+          "text": "This is it, this is where I belong.",
+          "emotion": "thoughtful, introspective"
+        }
+      ],
+      "emotional_tone": "mysterious",
+      "pacing": "fast",
+      "tension_level": 2,
+      "visual_prompt": "a vibrant, electric nightclub scene with diverse alien creatures, strobe lights, and a sense of freedom and joy. Art style: neon-lit, futuristic. Lighting: bright, pulsating. Composition: dynamic, with Zhra'gha in the center. Colors: bright, bold, and iridescent. Mood: carefree, joyful. Scene elements: alien creatures, dance floor, strobe lights.",
+      "negative_prompt": "sad, dark, or dull atmosphere",
+      "narration_style": "calm",
+      "music_mood": "upbeat, energetic electronic dance music with a strong beat",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "alien chatter",
+        "music beat",
+        "crowd noise"
+      ],
+      "ambient_sounds": [
+        "background chatter",
+        "music hum"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "adventure",
+        "dance",
+        "aliens",
+        "nightclub"
+      ],
+      "duration_estimate": 60.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

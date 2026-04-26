@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "a boy is truning in aforeest",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "ominous",
+      "text": "As the boy ventured deeper into the forest, the eerie glow in the distance grew brighter, illuminating the misty atmosphere with an otherworldly light. He felt an inexplicable pull towards the source of the glow, his curiosity and sense of adventure overriding the sense of unease that had been building up inside him. The trees seemed to close in around him, their branches creaking ominously in the wind, as he walked towards the glow. Suddenly, the sound of whispers seemed to emanate from all directions, the words indistinguishable but the malevolent intent clear. The boy's heart racing, he stumbled upon a clearing, and in the center of it stood an ancient, gnarled tree, its branches twisted and tangled in a way that seemed almost... deliberate. The glow was emanating from within the tree's trunk, pulsing with a strange, ethereal energy."
+    }
+  ]
+}

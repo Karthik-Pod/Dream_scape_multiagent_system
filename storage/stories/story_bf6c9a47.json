@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "alien dance",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "hopeful",
+      "text": "Zhra'gha, a young and adventurous alien, stepped into the vibrant nightclub, her large, round eyes scanning the room with excitement. The air was electric with the hum of conversation and the pulsating beat of the music. She had heard about this intergalactic dance from her friends and was determined to experience it for herself. With a flick of her long, slender tail, Zhra'gha dove into the crowd, her iridescent scales shimmering under the strobe lights. She weaved through the diverse alien crowd, taking in the array of strange and wonderful creatures. As she danced, her antennae twitched with joy, and she felt a sense of freedom she had never known before. 'This is it,' she thought, 'this is where I belong.'"
+    }
+  ]
+}

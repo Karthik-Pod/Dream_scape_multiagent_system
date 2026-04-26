@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "a boy running in a city , very happy story",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "hopeful",
+      "text": "As the boy ran towards the park, the sound of children's laughter and the scent of freshly cut grass filled the air. He had been running for what felt like hours, but the park was his favorite destination, a place where he could let loose and be himself. Suddenly, he heard the sound of a whistle blowing, and a coach's voice shouting 'Welcome, young runners!' The boy's eyes widened as he saw a group of kids gathered around a track, all wearing the same bright yellow t-shirts with the words 'Summer Sprinters' emblazoned on them. The coach, a tall, energetic woman with a warm smile, caught his eye and waved him over. 'Hey there, young man! Want to join us for a fun run?' she asked, eyeing his dusty sneakers and enthusiastic grin."
+    }
+  ]
+}

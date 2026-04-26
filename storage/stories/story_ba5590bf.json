@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "man in a forrest",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "The man's eyes remained fixed on the glowing artifact, his mind torn between an insatiable curiosity and a primal fear that warned him to turn back. He took a cautious step forward, the soft crunch of leaves beneath his feet echoing through the misty air. As he drew closer, the flickering light danced across his face, illuminating the deep lines of concern etched on his forehead. 'What is this?' he whispered to himself, his voice barely audible over the ominous ambient hum that seemed to emanate from the artifact itself. With a deep breath, he knelt down, his hand reaching out hesitantly towards the glowing object, as if expecting it to vanish or repel him at any moment."
+    }
+  ]
+}

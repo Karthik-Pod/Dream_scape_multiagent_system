@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "man in  a forrest waitng for merlin",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "ominous",
+      "text": "As the man waits, the wind picks up, rustling the leaves and sending eerie whispers through the forest. Suddenly, a figure emerges from the mist, cloaked in shadows. The man's heart skips a beat as the figure approaches, its features slowly becoming discernible. It's Merlin, his long white beard and hair a stark contrast to the darkness surrounding him. Merlin's eyes gleam with an otherworldly intensity as he regards the man, his gaze piercing through the gloom. 'You have been waiting,' Merlin states, his voice low and mysterious, 'but are you prepared for what is to come?' The man swallows hard, a sense of trepidation growing within him as he realizes that his encounter with Merlin may not be what he expected."
+    }
+  ]
+}

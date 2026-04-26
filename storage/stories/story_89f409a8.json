@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "a boy waking on a road",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the boy struggles to remember anything about himself, he notices a piece of paper clutched in his hand. Unfurling his fingers, he finds a crumpled note with a single phrase scribbled on it: 'They're looking for you.' The words send a shiver down his spine, and he looks around nervously, wondering who might be searching for him and why. The desolate landscape seems to stretch on forever, offering no answers. With a surge of adrenaline, the boy starts to move down the road, driven by a desperate need to find shelter, food, and most importantly, his memories. The wind picks up, whipping his hair into a frenzy as he walks, the only sound being the soft crunch of gravel beneath his feet."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "tense",
+      "text": "As the boy trudges on, the wind dies down, and an unsettling silence falls over the landscape. In the distance, he notices a figure standing by a crooked tree, its branches like withered fingers reaching towards the sky. The figure, dressed in a long, dark coat, seems to be watching him. The boy's heart quickens as he wonders if this person might be connected to the note in his hand. With a mix of trepidation and hope, he picks up his pace, his eyes fixed on the figure. As he draws closer, the figure doesn't move, its face obscured by the hood of the coat. The boy can feel a sense of anticipation building up inside him, as if his entire existence depends on this encounter. Suddenly, the figure slowly raises its head, and the boy sees a glimpse of piercing green eyes, which seem to bore into his very soul."
+    }
+  ]
+}

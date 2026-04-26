@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "a boy and a girl runnig in a forrest",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As they ran, the trees seemed to close in around them, casting deep, ominous shadows on the ground. The boy and girl exchanged a nervous glance, their breathing growing more labored. Suddenly, the path ahead of them split into three separate trails, each one disappearing into the dense underbrush. A faint, flickering glow emanated from the left trail, while the right trail was shrouded in an eerie, unnatural silence. The center trail, however, seemed to be... shifting, as if the very earth itself was uncertain which direction to lead them. The boy and girl slowed to a stop, their eyes locked on the diverging paths, unsure which one to choose."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "ominous",
+      "text": "As they stood there, a figure emerged from the shifting center trail. It was a woman with long, flowing hair and a white dress that seemed to blend seamlessly into the misty atmosphere. Her face was obscured by a hood, making it impossible to discern any features. The boy and girl exchanged a wary glance, their hearts racing with anticipation. The woman didn't seem to notice them at first, her gaze fixed on some point beyond the trees. But then, her head slowly turned, and she regarded the pair with an unnerving intensity. The boy felt a shiver run down his spine as the woman began to walk towards them, her movements fluid and almost ethereal. The girl, meanwhile, took a step back, her eyes fixed on the shifting trail, as if she expected it to swallow them whole at any moment. 'Which path should we take?' the boy whispered, but the girl just shook her head, her eyes darting between the woman and the trails."
+    }
+  ]
+}

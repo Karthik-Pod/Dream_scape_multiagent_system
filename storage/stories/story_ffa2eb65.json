@@ -1,0 +1,27 @@
+{
+  "initial_prompt": "man in forrest",
+  "total_rounds": 3,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "ominous",
+      "text": "As the man ventured deeper into the forest, the mist began to swirl around him, obscuring his vision. He stumbled upon a clearing, and in the center of it stood an ancient, gnarled tree, its branches twisted in a way that seemed almost... deliberate. Carved into the trunk was a symbol that seemed to pulse with a faint, otherworldly glow. The man's curiosity got the better of him, and he reached out a trembling hand to touch the symbol, feeling an sudden jolt of energy course through his body. The forest around him fell silent, as if holding its breath in anticipation of what was to come."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "rising_action",
+      "emotional_tone": "ominous",
+      "text": "As the man stood frozen, his hand still touching the symbol, a figure began to emerge from the trees. The air seemed to thicken, making each step the figure took appear deliberate and calculated. The figure itself was shrouded in shadows, making it impossible for the man to discern any features. The silence was oppressive, punctuated only by the faint, ominous hum that seemed to emanate from the symbol. The figure drew closer, its presence filling the clearing, and the man could feel a malevolent gaze upon him. Without a word, the figure raised its hand, and the man felt an unseen force push him back, away from the ancient tree. The symbol on the trunk pulsed brighter, as if in response to the figure's actions, and the man stumbled, his vision blurring at the edges."
+    },
+    {
+      "round": 3,
+      "agent": "EmotionAgent",
+      "arc_stage": "falling_action",
+      "emotional_tone": "ominous",
+      "text": "The man's eyes widened as he stumbled backward, his hand tearing away from the symbol. He tripped over a root and fell, landing hard on the damp earth. The figure loomed over him, its presence suffocating. The air seemed to vibrate with an otherworldly energy, making it impossible for the man to catch his breath. As he looked up, he felt a creeping sense of dread. The figure's face remained shrouded in shadows, but its eyes gleamed with an unnatural light. The man's heart pounded in his chest, threatening to burst free. He scrambled to his feet, but his legs felt like lead, refusing to move. The symbol on the ancient tree pulsed brighter, casting an eerie glow over the clearing. The man's mind was a jumble of fear and confusion, unable to process the events unfolding around him. A cold dread seeped into his bones, freezing him in place. Panic clawed at his throat, making it hard to swallow. He was trapped, with no escape from the dark presence looming over him."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "story_id": "story_efeb5618",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_efeb5618_scene_01",
+      "story_id": "story_efeb5618",
+      "sequence_number": 1,
+      "title": "Fading Light",
+      "setting": {
+        "location": "horizon",
+        "time_of_day": "dusk",
+        "weather": "windy",
+        "atmosphere": "mysterious",
+        "lighting": "warm golden"
+      },
+      "characters": [
+        {
+          "name": "the man",
+          "emotion": "anticipatory",
+          "action": "staring at the horizon",
+          "location_in_scene": "standing at the edge of the landscape"
+        }
+      ],
+      "narration_text": "The last remnants of sunlight faded, the man's eyes remained fixed on the horizon, his heart pounding in anticipation. The wind began to pick up, carrying the whispers of ancient secrets on its breath.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A warm golden sunset on the horizon, with the man standing at the edge of the landscape, looking out at the fading light. The wind is picking up, carrying whispers of ancient secrets. The atmosphere is mysterious and anticipatory. The man's face is tense, his eyes fixed on the horizon. The sky is a deep orange and pink, with clouds of purple and blue. The man's clothes are worn and weathered, with a sense of ruggedness. The composition is cinematic, with the man small in the frame, emphasizing the vastness of the landscape.",
+      "negative_prompt": "clear blue skies, sunny weather, happy emotions",
+      "narration_style": "calm",
+      "music_mood": "mysterious ambient with a hint of tension",
+      "music_tempo": "moderate",
+      "sfx_cues": [
+        "whispers",
+        "wind"
+      ],
+      "ambient_sounds": [
+        "crickets",
+        "distant howling"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "adventure",
+        "horror"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": "./storage\\images\\story_efeb5618_scene_01.png",
+      "audio_path": "./storage\\audio\\story_efeb5618_scene_01_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_efeb5618_scene_02",
+      "story_id": "story_efeb5618",
+      "sequence_number": 2,
+      "title": "Emerge from the Shadows",
+      "setting": {
+        "location": "unknown/night",
+        "time_of_day": "night",
+        "weather": "stormy",
+        "atmosphere": "ominous",
+        "lighting": "flickering/distant lightning"
+      },
+      "characters": [
+        {
+          "name": "the man",
+          "emotion": "surprised",
+          "action": "breathing in shock",
+          "location_in_scene": "watching the figure emerge"
+        },
+        {
+          "name": "the figure",
+          "emotion": "unknown",
+          "action": "stepping into light",
+          "location_in_scene": "emerging from darkness"
+        }
+      ],
+      "narration_text": "A figure emerged from the darkness, its presence seeming to draw the very air out of the atmosphere. The man's breath caught as the figure stepped into the faint, flickering light of a distant lightning strike, revealing a tall, imposing form with eyes that burned like stars in the void.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dark, stormy night with a single figure emerging from the shadows. The figure is tall and imposing, with eyes that glow like stars in the void. The lighting is flickering and distant, with a faint, blue-green glow. The composition is dramatic, with the figure centered and the background dark and ominous. The mood is foreboding and suspenseful. Include lightning strikes in the background to add to the atmosphere.",
+      "negative_prompt": "bright colors, cheerful atmosphere, happy characters",
+      "narration_style": "dramatic",
+      "music_mood": "dark ambient electronic with distant, ominous strings",
+      "music_tempo": "slow/building",
+      "sfx_cues": [
+        "thunderclap",
+        "distant lightning strike",
+        "footsteps"
+      ],
+      "ambient_sounds": [
+        "rain",
+        "howling wind"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "suspense",
+        "horror"
+      ],
+      "duration_estimate": 10.5,
+      "image_path": "./storage\\images\\story_efeb5618_scene_02.png",
+      "audio_path": "./storage\\audio\\story_efeb5618_scene_02_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_efeb5618_scene_03",
+      "story_id": "story_efeb5618",
+      "sequence_number": 3,
+      "title": "The Encounter",
+      "setting": {
+        "location": "landscape",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "ominous",
+        "lighting": "natural"
+      },
+      "characters": [
+        {
+          "name": "David",
+          "emotion": "contemplative",
+          "action": "sweeping gaze",
+          "location_in_scene": "center"
+        },
+        {
+          "name": "the man",
+          "emotion": "fearful",
+          "action": "standing",
+          "location_in_scene": "periphery"
+        }
+      ],
+      "narration_text": "David's gaze swept across the landscape, as if searching for something, or someone. The man felt a shiver run down his spine as their eyes met, and he knew in that instant, his life was about to change forever.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A mystical landscape with a powerful being, David, in the center, gazing out at the viewer. The man, in the periphery, is shown with a fearful expression. Art style: dark fantasy. Lighting: warm, golden tones. Composition: David dominates the frame. Colors: muted, with hints of blue and purple. Mood: foreboding. Scene elements: ancient trees, misty atmosphere.",
+      "negative_prompt": "bright, cheerful, cartoonish",
+      "narration_style": "dramatic",
+      "music_mood": "ominous, dark ambient with distant, mournful strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "distant howling wind",
+        "creaking ancient trees"
+      ],
+      "ambient_sounds": [
+        "misty atmosphere",
+        "distant, mournful strings"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "cosmic power",
+        "mystery",
+        "fear"
+      ],
+      "duration_estimate": 12.5,
+      "image_path": "./storage\\images\\story_efeb5618_scene_03.png",
+      "audio_path": "./storage\\audio\\story_efeb5618_scene_03_mixed.wav",
+      "video_path": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "Boy in a kingdom waiting for a throne",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the young prince, Eldric, stood before the cold, dark mirror in his chambers, he couldn't help but feel an overwhelming sense of doubt creeping in. His eyes, once bright with the promise of a future king, now seemed dull and uncertain. 'Is this truly my destiny?' he whispered to himself, the words echoing off the stone walls. The weight of his birthright felt like a physical force, pressing down upon him. He thought of all the expectations, the duties, the responsibilities that came with the throne. Eldric's mind was a maelstrom of conflicting emotions - fear, anxiety, and a deep-seated desire to prove himself worthy. He took a deep breath, trying to calm the turmoil within, but the question lingered: 'Am I ready to rule?'"
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "hopeful",
+      "text": "Just as Eldric's thoughts seemed to be spiraling out of control, a soft knock at the door broke the silence. It was an old man, dressed in simple yet elegant attire, with a long white beard and piercing blue eyes that seemed to see right through to Eldric's soul. 'Your Highness,' the old man said, his voice low and soothing, 'I see you are troubled. May I have the privilege of speaking with you?' Eldric, sensing a deep wisdom and kindness in the stranger, nodded, and the old man entered, closing the door behind him. 'I am Gorin,' he introduced himself, 'a former advisor to your father, the king. I have been watching you from afar, and I must say, you are at a crossroads. The path ahead of you is fraught with challenges, but with the right guidance, you can overcome them.' Gorin's words were like a balm to Eldric's frazzled nerves, and he found himself wanting to open up to this stranger, to unburden his heart and seek wisdom."
+    }
+  ]
+}

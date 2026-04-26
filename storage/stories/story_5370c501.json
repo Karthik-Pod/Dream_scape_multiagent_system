@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "man running",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the man ran, his mind flashed back to the events that led him to this desperate escape. His name was Ethan, a former journalist who had stumbled upon a conspiracy that threatened to upend the city's corrupt government. He had been running for what felt like hours, but the adrenaline coursing through his veins kept him going. Suddenly, he heard the sound of footsteps behind him, and his heart sank. 'They've found me,' he thought, his breath catching in his throat. Ethan forced himself to pick up speed, his legs pumping as he dashed through the fog-shrouded streets. He could hear the distant sirens, a reminder that he was running out of time. 'I have to get to the safe house,' he told himself, the thought of his ally, Rachel, waiting for him there, the only thing that kept him going."
+    }
+  ]
+}

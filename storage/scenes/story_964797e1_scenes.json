@@ -1,0 +1,224 @@
+{
+  "story_id": "story_964797e1",
+  "total_scenes": 4,
+  "scenes": [
+    {
+      "scene_id": "story_964797e1_scene_01",
+      "story_id": "story_964797e1",
+      "sequence_number": 1,
+      "title": "Echoes of Emptiness",
+      "setting": {
+        "location": "a remote, misty place with twisted trees",
+        "time_of_day": "unknown",
+        "weather": "misty",
+        "atmosphere": "isolated, eerie",
+        "lighting": "dull, diffused"
+      },
+      "characters": [
+        {
+          "name": "Lena",
+          "emotion": "melancholic, guilty",
+          "action": "walking, lost in thought",
+          "location_in_scene": "center of the scene"
+        }
+      ],
+      "narration_text": "As she walked, the silence was broken only by the soft crunch of gravel beneath her boots. Lena's mind began to wander, drifting back to the memories she had tried to leave behind. The fire that had ravaged her family's home, the feeling of helplessness as she watched it burn, the sound of her mother's voice whispering 'run' as the flames engulfed everything. She had been running ever since, trying to escape the pain and the guilt that had become her constant companions. The isolation of this place, with its shrouding mist and twisted trees, seemed to echo the emptiness within her. 'Why did I come here?' she thought, the question hanging in the air like the mist itself.",
+      "dialogue": [
+        {
+          "character": "Lena",
+          "text": "'Why did I come here?'",
+          "emotion": "desperate"
+        }
+      ],
+      "emotional_tone": "melancholic",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A misty, eerie landscape with twisted trees, a solitary figure (Lena) walking in the distance, lost in thought. Art style: atmospheric, muted colors. Lighting: soft, diffused. Composition: a sense of isolation, with the figure small in the vast landscape. Mood: melancholic, introspective. Scene elements: a few scattered rocks, a distant tree line.",
+      "negative_prompt": "clear skies, bright colors, happy memories",
+      "narration_style": "calm",
+      "music_mood": "haunting, ambient piano with a hint of strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "footsteps on gravel",
+        "misty wind"
+      ],
+      "ambient_sounds": [
+        "distant wind",
+        "muffled sounds of nature"
+      ],
+      "arc_stage": "falling_action",
+      "source_agent": "unknown",
+      "tags": [
+        "trauma",
+        "guilt",
+        "isolation"
+      ],
+      "duration_estimate": 120.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_964797e1_scene_02",
+      "story_id": "story_964797e1",
+      "sequence_number": 2,
+      "title": "The Lonely Encounter",
+      "setting": {
+        "location": "a misty, unknown wilderness",
+        "time_of_day": "unknown",
+        "weather": "misty and damp",
+        "atmosphere": "foreboding and eerie",
+        "lighting": "dim and diffused"
+      },
+      "characters": [
+        {
+          "name": "Lena",
+          "emotion": "fearful and curious",
+          "action": "looking around, taking cautious steps",
+          "location_in_scene": "center of the scene"
+        }
+      ],
+      "narration_text": "She stopped, looking around, and for a moment, the stillness was almost palpable. Then, a distant howl pierced the air, and Lena felt a shiver run down her spine. She knew she wasn't alone, and the realization brought a mix of fear and curiosity. As the howl faded into the mist, Lena's eyes scanned the surroundings, her heart pounding in her chest. She took a cautious step forward, and then another, her boots sinking into the damp earth.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A misty, dimly lit wilderness scene with Lena in the center, looking around cautiously. The atmosphere is eerie and foreboding, with a distant howl fading into the mist. The color palette is muted, with shades of green and gray. The composition should emphasize Lena's vulnerability and the unknown surroundings. The mood is ominous and suspenseful, with a sense of unease.",
+      "negative_prompt": "clear skies, bright sunlight, happy characters",
+      "narration_style": "calm",
+      "music_mood": "dark ambient with distant, mournful strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "howling wind",
+        "distant animal sounds"
+      ],
+      "ambient_sounds": [
+        "misty atmosphere",
+        "damp earth"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "suspense",
+        "horror",
+        "adventure"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_964797e1_scene_03",
+      "story_id": "story_964797e1",
+      "sequence_number": 3,
+      "title": "Emergence from the Mist",
+      "setting": {
+        "location": "Misty landscape",
+        "time_of_day": "unknown",
+        "weather": "Misty",
+        "atmosphere": "Ominous",
+        "lighting": "Low-light with shadows"
+      },
+      "characters": [
+        {
+          "name": "Lena",
+          "emotion": "Anxious",
+          "action": "Reaching for knife",
+          "location_in_scene": "Behind the figure"
+        },
+        {
+          "name": "Unknown figure",
+          "emotion": "Unknown",
+          "action": "Approaching",
+          "location_in_scene": "Emerging from mist"
+        }
+      ],
+      "narration_text": "The silence that followed was oppressive, heavy with anticipation. Suddenly, a figure emerged from the veil of mist, its features indistinct and shrouded in shadow. Lena's hand instinctively went to the knife sheathed at her belt, her fingers wrapping around the hilt as if it could offer her some sense of protection. The figure didn't seem to notice her, its gaze fixed on some point beyond her shoulder.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A misty, low-light landscape with a figure emerging from the shadows. Lena stands in the foreground, hand on the hilt of her knife, looking anxious. The figure is shrouded in darkness, its face indistinct. The atmosphere is ominous, with a sense of foreboding. Art style: dark and moody, with muted colors. Composition: the figure should be the focal point, with Lena in the background. Lighting: use deep shadows to create a sense of mystery. Mood: suspenseful and foreboding.",
+      "negative_prompt": "Bright colors, cheerful atmosphere, clear figure's face",
+      "narration_style": "calm",
+      "music_mood": "Dark ambient electronic with distant strings",
+      "music_tempo": "Slow",
+      "sfx_cues": [
+        "Distant dripping water",
+        "Soft wind rustling through leaves"
+      ],
+      "ambient_sounds": [
+        "Crickets chirping",
+        "Distant howling wind"
+      ],
+      "arc_stage": "Rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "Suspense",
+        "Mystery",
+        "Lena"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_964797e1_scene_04",
+      "story_id": "story_964797e1",
+      "sequence_number": 4,
+      "title": "The Mysterious Mansion",
+      "setting": {
+        "location": "a distant, ancient mansion",
+        "time_of_day": "unknown",
+        "weather": "mist-shrouded",
+        "atmosphere": "ominous",
+        "lighting": "dramatic, with an emphasis on shadows"
+      },
+      "characters": [
+        {
+          "name": "Lena",
+          "emotion": "curiosity",
+          "action": "watching the figure approach the mansion",
+          "location_in_scene": "at a distance, observing the mansion"
+        },
+        {
+          "name": "the figure",
+          "emotion": "unknown",
+          "action": "moving towards the mansion",
+          "location_in_scene": "approaching the mansion"
+        }
+      ],
+      "narration_text": "Lena saw the mansion and felt an inexplicable pull to follow the figure.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A haunting, oil-painted image of a sprawling, ancient mansion in the mist-shrouded distance. The mansion's windows are empty eyes staring back, and a figure is moving slowly towards it. The atmosphere is ominous, with an emphasis on shadows and a sense of foreboding. The colors are muted, with a focus on grays and blues. The composition should be dramatic, with the mansion as the central focus. The mood should be mysterious and suspenseful.",
+      "negative_prompt": "bright colors, clear skies, fast-paced action",
+      "narration_style": "calm",
+      "music_mood": "dark, ambient, with a hint of mystery",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "creaking doors",
+        "howling wind"
+      ],
+      "ambient_sounds": [
+        "misty atmosphere",
+        "distant creaking"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "suspense",
+        "horror"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

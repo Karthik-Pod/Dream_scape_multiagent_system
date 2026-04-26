@@ -1,0 +1,155 @@
+{
+  "story_id": "story_6b88aed4",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_6b88aed4_scene_01",
+      "story_id": "story_6b88aed4",
+      "sequence_number": 1,
+      "title": "The Boy and the Eerie Glow",
+      "setting": {
+        "location": "forest",
+        "time_of_day": "unknown",
+        "weather": "misty",
+        "atmosphere": "eerie",
+        "lighting": "otherworldly"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "curious",
+          "action": "venturing deeper into the forest",
+          "location_in_scene": "in the forest"
+        }
+      ],
+      "narration_text": "As the boy ventured deeper into the forest, the eerie glow in the distance grew brighter, illuminating the misty atmosphere with an otherworldly light. He felt an inexplicable pull towards the source of the glow, his curiosity and sense of adventure overriding the sense of unease that had been building up inside him.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A mystical forest scene with an otherworldly glow in the distance, illuminating a misty atmosphere. The boy, with a curious expression, is seen venturing deeper into the forest. Art style: dreamy and ethereal. Lighting: soft and diffused. Composition: the boy is centered, with the glow in the background. Colors: muted with a touch of blue and purple. Mood: mysterious and enchanting. Scene elements: ancient trees, glowing mushrooms, and a subtle sense of unease.",
+      "negative_prompt": "clear skies, direct sunlight, realistic art style",
+      "narration_style": "calm",
+      "music_mood": "ethereal and mystical with a hint of adventure",
+      "music_tempo": "moderate",
+      "sfx_cues": [
+        "creaking trees",
+        "hooting owls"
+      ],
+      "ambient_sounds": [
+        "distant wind",
+        "murmuring water"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "adventure",
+        "mystery",
+        "fantasy"
+      ],
+      "duration_estimate": 15.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_6b88aed4_scene_02",
+      "story_id": "story_6b88aed4",
+      "sequence_number": 2,
+      "title": "The Whispering Woods",
+      "setting": {
+        "location": "a forest",
+        "time_of_day": "night",
+        "weather": "windy",
+        "atmosphere": "ominous",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "the protagonist",
+          "emotion": "fearful",
+          "action": "walking",
+          "location_in_scene": "in the forest"
+        }
+      ],
+      "narration_text": "The trees seemed to close in around him, their branches creaking ominously in the wind, as he walked towards the glow. Suddenly, the sound of whispers seemed to emanate from all directions, the words indistinguishable but the malevolent intent clear.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "medium",
+      "tension_level": 8,
+      "visual_prompt": "A dark and foreboding forest scene at night, with dim lighting and ominous shadows. The trees are twisted and gnarled, their branches creaking in the wind. The protagonist is walking towards a faint glow in the distance, looking fearful and uncertain. The atmosphere is tense and foreboding, with an emphasis on capturing the sense of malevolent intent.",
+      "negative_prompt": "no bright colors, no happy emotions",
+      "narration_style": "dramatic",
+      "music_mood": "dark ambient with distant howling wind",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "creaking branches",
+        "whispers"
+      ],
+      "ambient_sounds": [
+        "wind rustling through leaves"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "horror",
+        "mystery",
+        "supernatural"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_6b88aed4_scene_03",
+      "story_id": "story_6b88aed4",
+      "sequence_number": 3,
+      "title": "The Ancient Clearing",
+      "setting": {
+        "location": "a clearing in a forest",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "mysterious and eerie",
+        "lighting": "soft, ethereal glow"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fearful and curious",
+          "action": "stumbling upon the clearing",
+          "location_in_scene": "in the clearing"
+        }
+      ],
+      "narration_text": "The boy's heart racing, he stumbled upon a clearing, and in the center of it stood an ancient, gnarled tree, its branches twisted and tangled in a way that seemed almost... deliberate. The glow was emanating from within the tree's trunk, pulsing with a strange, ethereal energy.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A mystical, dreamlike scene in a clearing with an ancient, gnarled tree at its center. The tree's branches are twisted and tangled in a deliberate manner, with a soft, ethereal glow emanating from within its trunk. The atmosphere is eerie and mysterious, with a sense of foreboding. The art style is reminiscent of a fantasy novel or a mythological illustration. The colors are muted, with shades of green, brown, and purple dominating the palette. The mood is one of wonder and trepidation. Include subtle details such as moss-covered stones, twisted roots, and a faint mist in the background.",
+      "negative_prompt": "bright, harsh lighting; modern, realistic style; explicit violence or gore",
+      "narration_style": "calm",
+      "music_mood": "haunting, atmospheric ambient music with a hint of mysticism",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "creaking branches",
+        "distant howling"
+      ],
+      "ambient_sounds": [
+        "gentle breeze",
+        "distant water flow"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "fantasy",
+        "mystery",
+        "adventure"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

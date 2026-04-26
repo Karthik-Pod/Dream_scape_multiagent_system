@@ -1,0 +1,161 @@
+{
+  "story_id": "story_11b99b52",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_11b99b52_scene_01",
+      "story_id": "story_11b99b52",
+      "sequence_number": 1,
+      "title": "Freedom's Rhythm",
+      "setting": {
+        "location": "open countryside or forest",
+        "time_of_day": "unknown",
+        "weather": "partly cloudy with a gentle breeze",
+        "atmosphere": "serene and peaceful",
+        "lighting": "natural, with dappled sunlight filtering through the trees"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "joyful, uncertain, and determined",
+          "action": "running, stopping, and leaning against a tree",
+          "location_in_scene": "varies, but primarily near the oak tree"
+        }
+      ],
+      "narration_text": "As the boy ran, his feet pounding against the earth in a rhythmic beat, he couldn't help but feel a sense of freedom. The wind whipped through his hair, and his eyes sparkled with joy, but occasionally, a flicker of uncertainty danced across his face. He glanced over his shoulder, his eyes scanning the surroundings, but saw nothing out of the ordinary. The boy's pace slowed, and he came to a stop beside a large oak tree, its branches stretching towards the sky like nature's own cathedral. He leaned against the trunk, catching his breath, and for a moment, his gaze drifted upwards, lost in thought. The sound of leaves rustling in the gentle breeze and the distant call of a bird were the only sounds that broke the silence. Suddenly, he pushed off from the tree and continued his run, but this time, with a hint of urgency in his steps.",
+      "dialogue": [],
+      "emotional_tone": "hopeful",
+      "pacing": "medium",
+      "tension_level": 3,
+      "visual_prompt": "A serene and peaceful landscape with a boy running in the foreground, surrounded by lush greenery and a large oak tree in the background. The boy's face should convey a mix of joy and uncertainty. The art style should be impressionistic, with soft brushstrokes and warm colors. The lighting should be natural, with dappled sunlight filtering through the trees. The mood should be hopeful and uplifting.",
+      "negative_prompt": "dark, ominous, or foreboding atmosphere",
+      "narration_style": "calm",
+      "music_mood": "uplifting and energetic, with a mix of acoustic guitar and gentle percussion",
+      "music_tempo": "moderate",
+      "sfx_cues": [
+        "leaves rustling",
+        "bird call"
+      ],
+      "ambient_sounds": [
+        "gentle breeze"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "freedom",
+        "joy",
+        "uncertainty",
+        "nature"
+      ],
+      "duration_estimate": 120.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_11b99b52_scene_02",
+      "story_id": "story_11b99b52",
+      "sequence_number": 2,
+      "title": "The Boy's Descent into Fear",
+      "setting": {
+        "location": "a forest",
+        "time_of_day": "dusk",
+        "weather": "unknown",
+        "atmosphere": "ominous",
+        "lighting": "dramatic, with long shadows"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fearful",
+          "action": "running",
+          "location_in_scene": "center of the scene"
+        },
+        {
+          "name": "the figure",
+          "emotion": "unknown",
+          "action": "standing still",
+          "location_in_scene": "beyond the treeline"
+        }
+      ],
+      "narration_text": "The boy continued his run, the trees seemed to close in around him, casting long, ominous shadows on the ground. The rustling of leaves beneath his feet sounded like whispers, and the distant call of the bird had grown silent. He glanced over his shoulder once more, and this time, he thought he saw a figure standing just beyond the treeline. The figure was shrouded in shadows, making it impossible to discern any features. The boy's heart began to pound in his chest, and his pace quickened as he wondered if he was being followed.",
+      "dialogue": [],
+      "emotional_tone": "fearful",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A dark, ominous forest with long shadows, a boy running in the center, and a figure shrouded in shadows beyond the treeline. Art style: dark and moody, with muted colors. Lighting: dramatic, with a focus on the long shadows. Composition: the boy should be the focal point, with the figure in the background. Colors: dark greens and browns, with hints of purple. Mood: foreboding and suspenseful. Scene elements: trees, leaves, and a distant bird call.",
+      "negative_prompt": "bright colors, happy atmosphere",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with a hint of strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "rustling leaves",
+        "distant bird call"
+      ],
+      "ambient_sounds": [
+        "wind through the trees"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "horror",
+        "suspense",
+        "fear"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_11b99b52_scene_03",
+      "story_id": "story_11b99b52",
+      "sequence_number": 3,
+      "title": "Fleeing from the Unknown",
+      "setting": {
+        "location": "a forest or woods near a park",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense and foreboding",
+        "lighting": "dim and filtered through the trees"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fear",
+          "action": "running",
+          "location_in_scene": "in the forest, behind the trees"
+        }
+      ],
+      "narration_text": "He heard the faint sound of footsteps behind him, echoing his own. The boy's urgency turned to fear, and he picked up speed, his eyes fixed on a break in the trees ahead, which he hoped would lead him back to the safety of the park's entrance.",
+      "dialogue": [],
+      "emotional_tone": "fearful",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dark and ominous forest, with dimly lit trees and a faint glow of sunlight peeking through the canopy. The boy, a young figure with a look of fear on his face, runs swiftly through the underbrush, his eyes fixed on a break in the trees ahead. The atmosphere is tense and foreboding, with an air of danger lurking in the shadows. Art style: dark and muted, with a focus on capturing the fear and urgency of the situation. Lighting: dim and filtered through the trees, with a hint of sunlight in the distance. Composition: the boy should be the central focus of the image, with the trees and underbrush leading the viewer's eye to the break in the trees ahead. Colors: muted and dark, with a focus on greens and browns to capture the forest atmosphere. Mood: tense and foreboding, with a sense of danger lurking in the shadows.",
+      "negative_prompt": "avoid bright colors, sunny skies, and peaceful atmosphere",
+      "narration_style": "urgent",
+      "music_mood": "dark and ominous electronic music with a sense of urgency",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "footsteps echoing through the forest",
+        "leaves rustling in the wind"
+      ],
+      "ambient_sounds": [
+        "distant birds chirping",
+        "a gentle breeze rustling through the trees"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "fear",
+        "survival",
+        "adventure"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

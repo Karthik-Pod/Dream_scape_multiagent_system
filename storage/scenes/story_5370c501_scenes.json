@@ -1,0 +1,167 @@
+{
+  "story_id": "story_5370c501",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_5370c501_scene_01",
+      "story_id": "story_5370c501",
+      "sequence_number": 1,
+      "title": "Desperate Escape",
+      "setting": {
+        "location": "city",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "Ethan",
+          "emotion": "desperate",
+          "action": "running",
+          "location_in_scene": "on the move"
+        }
+      ],
+      "narration_text": "As the man ran, his mind flashed back to the events that led him to this desperate escape. His name was Ethan, a former journalist who had stumbled upon a conspiracy that threatened to upend the city's corrupt government.",
+      "dialogue": [],
+      "emotional_tone": "mysterious",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dark, gritty cityscape at night, with neon lights reflecting off wet pavement. The man, Ethan, is in the foreground, running down a narrow alleyway. His face is tense, his eyes fixed on some point ahead. The atmosphere is tense and foreboding, with a sense of urgency and danger lurking around every corner. Use a mix of warm and cool colors to convey the contrast between the city's bright lights and Ethan's dark emotions. The composition should be dynamic, with Ethan's movement creating a sense of energy and momentum. Include some subtle shadows and reflections to add depth and texture to the image.",
+      "negative_prompt": "no happy faces, no bright colors, no peaceful atmosphere",
+      "narration_style": "urgent",
+      "music_mood": "dark, pulsing electronic with a sense of urgency",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "footsteps",
+        "distant sirens"
+      ],
+      "ambient_sounds": [
+        "city noise",
+        "wind"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "conspiracy",
+        "corruption",
+        "desperate escape"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": "./storage\\images\\story_5370c501_scene_01.png",
+      "audio_path": "./storage\\audio\\story_5370c501_scene_01_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_5370c501_scene_02",
+      "story_id": "story_5370c501",
+      "sequence_number": 2,
+      "title": "Pursuit in the Night",
+      "setting": {
+        "location": "unknown",
+        "time_of_day": "night",
+        "weather": "unknown",
+        "atmosphere": "tense",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "unknown",
+          "emotion": "fearful",
+          "action": "running",
+          "location_in_scene": "in the distance"
+        }
+      ],
+      "narration_text": "He had been running for what felt like hours, but the adrenaline coursing through his veins kept him going. Suddenly, he heard the sound of footsteps behind him, and his heart sank. 'They've found me,' he thought, his breath catching in his throat.",
+      "dialogue": [
+        {
+          "character": "unknown",
+          "text": "'They've found me'",
+          "emotion": "fearful"
+        }
+      ],
+      "emotional_tone": "fearful",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dark, rainy night with dim streetlights. The protagonist is a silhouette in the distance, running down a deserted street. The sound of footsteps echoes behind him, with a faint hint of fear in his posture. The atmosphere is tense and foreboding, with a sense of urgency. The color palette is muted, with shades of blue and gray dominating the scene. The art style is realistic, with a focus on capturing the protagonist's fear and desperation.",
+      "negative_prompt": "no visible faces, no bright colors",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "footsteps",
+        "breathing"
+      ],
+      "ambient_sounds": [
+        "rain"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "survival",
+        "fear",
+        "pursuit"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": "./storage\\images\\story_5370c501_scene_02.png",
+      "audio_path": "./storage\\audio\\story_5370c501_scene_02_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_5370c501_scene_03",
+      "story_id": "story_5370c501",
+      "sequence_number": 3,
+      "title": "Fog-Shrouded Flight",
+      "setting": {
+        "location": "fog-shrouded streets",
+        "time_of_day": "night",
+        "weather": "fog",
+        "atmosphere": "tense",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "Ethan",
+          "emotion": "anxious",
+          "action": "running",
+          "location_in_scene": "center of the scene"
+        }
+      ],
+      "narration_text": "Ethan forced himself to pick up speed, his legs pumping as he dashed through the fog-shrouded streets. He could hear the distant sirens, a reminder that he was running out of time. I have to get to the safe house, he told himself, the thought of his ally, Rachel, waiting for him there, the only thing that kept him going.",
+      "dialogue": [
+        {
+          "character": "Ethan",
+          "text": "I have to get to the safe house",
+          "emotion": "resolute"
+        }
+      ],
+      "emotional_tone": "fearful",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dark, gritty, urban scene with a focus on fog-shrouded streets. The image should be lit with dim, blue-green tones, with the main character, Ethan, running in the center of the frame. The background should be blurred to emphasize the fog. The overall mood should be tense and foreboding, with a sense of urgency. Include sirens in the background to add to the tension. The image should be rendered in a cinematic style, with deep shadows and high contrast.",
+      "negative_prompt": "bright colors, sunny weather, calm atmosphere",
+      "narration_style": "urgent",
+      "music_mood": "dark, pulsing electronic with a sense of urgency",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "sirens",
+        "footsteps"
+      ],
+      "ambient_sounds": [
+        "foghorn",
+        "distant voices"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "action",
+        "thriller",
+        "survival"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": "./storage\\images\\story_5370c501_scene_03.png",
+      "audio_path": "./storage\\audio\\story_5370c501_scene_03_mixed.wav",
+      "video_path": null
+    }
+  ]
+}

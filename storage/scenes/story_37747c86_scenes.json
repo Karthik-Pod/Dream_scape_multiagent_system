@@ -1,0 +1,102 @@
+{
+  "story_id": "story_37747c86",
+  "total_scenes": 2,
+  "scenes": [
+    {
+      "scene_id": "story_37747c86_scene_01",
+      "story_id": "story_37747c86",
+      "sequence_number": 1,
+      "title": "The Waiting Man",
+      "setting": {
+        "location": "desolate landscape",
+        "time_of_day": "afternoon",
+        "weather": "partly cloudy",
+        "atmosphere": "desolate, ominous",
+        "lighting": "warm sunlight"
+      },
+      "characters": [
+        {
+          "name": "the man",
+          "emotion": "anticipatory, uncertain",
+          "action": "standing still, gazing out at the horizon",
+          "location_in_scene": "center of the landscape"
+        }
+      ],
+      "narration_text": "The warm sunlight peeking through the partially cloudy sky cast long shadows across the desolate landscape. The silence was almost palpable, broken only by the occasional rustle of leaves in the lone tree's twisted branches. The man's gaze followed the dirt road as it stretched out into the horizon, his eyes squinting against the bright light. He seemed frozen in place, as if waiting for something or someone to break the stillness.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A desolate landscape with a lone tree in the distance, a dirt road stretching out to the horizon. The sky is partly cloudy with warm sunlight peeking through. The man stands still in the center of the landscape, his eyes squinting against the bright light. Art style: realistic, muted colors. Lighting: warm sunlight with long shadows. Composition: focus on the man's figure with the landscape in the background. Mood: ominous, anticipatory. Scene elements: the lone tree, the dirt road, the desolate landscape.",
+      "negative_prompt": "vibrant colors, bright sunlight without shadows",
+      "narration_style": "calm",
+      "music_mood": "haunting ambient with a hint of tension",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "rustling leaves",
+        "distant wind"
+      ],
+      "ambient_sounds": [
+        "crickets",
+        "distant wind"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "desolation",
+        "anticipation",
+        "omnous"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": "./storage\\images\\story_37747c86_scene_01.png",
+      "audio_path": "./storage\\audio\\story_37747c86_scene_01_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_37747c86_scene_02",
+      "story_id": "story_37747c86",
+      "sequence_number": 2,
+      "title": "The Approaching Storm",
+      "setting": {
+        "location": "horizon",
+        "time_of_day": "unknown",
+        "weather": "clear with dust cloud",
+        "atmosphere": "tense and anticipatory",
+        "lighting": "natural daylight"
+      },
+      "characters": [
+        {
+          "name": "the man",
+          "emotion": "curious",
+          "action": "waiting",
+          "location_in_scene": "standing and looking at the horizon"
+        }
+      ],
+      "narration_text": "A faint plume of dust appeared on the horizon, growing larger with each passing moment. The man's eyes locked onto the dust cloud, his expression unreadable. The air was thick with anticipation as the man waited to see what was approaching.",
+      "dialogue": [],
+      "emotional_tone": "tense",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A desert landscape with a lone man standing at the horizon, looking out at a growing dust cloud. The sky is clear blue with a few wispy clouds. The man's expression is unreadable. The atmosphere is tense and anticipatory. Use a warm color palette with deep oranges and yellows to convey the desert environment. The man should be the focal point, with the dust cloud in the background. Use a shallow depth of field to blur the background and emphasize the man's figure. The image should evoke a sense of mystery and anticipation.",
+      "negative_prompt": "avoid any obvious danger or threat in the image",
+      "narration_style": "calm",
+      "music_mood": "ominous ambient electronic with a hint of mystery",
+      "music_tempo": "moderate",
+      "sfx_cues": [],
+      "ambient_sounds": [
+        "wind"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "desert",
+        "mystery",
+        "anticipation"
+      ],
+      "duration_estimate": 10.5,
+      "image_path": "./storage\\images\\story_37747c86_scene_02.png",
+      "audio_path": "./storage\\audio\\story_37747c86_scene_02_mixed.wav",
+      "video_path": null
+    }
+  ]
+}

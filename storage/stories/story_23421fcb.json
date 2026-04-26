@@ -1,0 +1,13 @@
+{
+  "initial_prompt": "man in a city",
+  "total_rounds": 1,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the man walked through the city, the overcast sky seemed to grow darker, as if night was falling prematurely. Suddenly, the air was filled with an eerie, pulsing hum that seemed to emanate from all directions at once. The man's curiosity was piqued, and he felt a shiver run down his spine as he looked around, trying to locate the source of the sound. People on the street seemed oblivious to the noise, going about their daily business as if nothing was out of the ordinary. But the man's skepticism was slowly giving way to a growing sense of unease. He quickened his pace, his eyes scanning the rooftops and alleyways for any sign of what could be causing the strange hum. As he turned a corner, he noticed a figure standing in the shadows, watching him. The figure didn't move or react, but the man felt like he was being pulled towards it, as if by an unseen force. The hum grew louder, and the man's heart began to pound in his chest. He took a step forward, and then another, his feet seeming to move of their own accord."
+    }
+  ]
+}

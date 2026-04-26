@@ -1,0 +1,170 @@
+{
+  "story_id": "story_1a338a2f",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_1a338a2f_scene_01",
+      "story_id": "story_1a338a2f",
+      "sequence_number": 1,
+      "title": "Desperate Flight",
+      "setting": {
+        "location": "city",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense",
+        "lighting": "bright"
+      },
+      "characters": [
+        {
+          "name": "the boy",
+          "emotion": "fearful",
+          "action": "running",
+          "location_in_scene": "on the street"
+        }
+      ],
+      "narration_text": "The boy's feet pounded the pavement, his breath coming in ragged gasps as he dodged pedestrians and weaved through alleys. He clutched a small backpack to his chest, his eyes darting over his shoulder as if he expected someone to be following him.",
+      "dialogue": [
+        {
+          "character": "the boy",
+          "text": "I have to get out of here",
+          "emotion": "desperate"
+        }
+      ],
+      "emotional_tone": "fearful",
+      "pacing": "fast",
+      "tension_level": 8,
+      "visual_prompt": "A dark and gritty cityscape at night, with neon lights reflecting off wet pavement. The boy, a young teenager, runs down the street, his backpack clutched tightly to his chest. His eyes dart back and forth, scanning the crowds for potential threats. The atmosphere is tense and foreboding, with a sense of urgency and desperation.",
+      "negative_prompt": "no smiling, no happy faces, no peaceful atmosphere",
+      "narration_style": "urgent",
+      "music_mood": "dark and ominous electronic music with a fast-paced beat",
+      "music_tempo": "fast",
+      "sfx_cues": [
+        "footsteps",
+        "distant sirens",
+        "scattered chatter"
+      ],
+      "ambient_sounds": [
+        "city noise",
+        "distant traffic"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "action",
+        "thriller",
+        "urban"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_1a338a2f_scene_02",
+      "story_id": "story_1a338a2f",
+      "sequence_number": 2,
+      "title": "Descending into Darkness",
+      "setting": {
+        "location": "an abandoned or unknown location",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "ominous and foreboding",
+        "lighting": "low, with shadows"
+      },
+      "characters": [
+        {
+          "name": "he",
+          "emotion": "cautious and hesitant",
+          "action": "descending the stairs",
+          "location_in_scene": "at the top of the stairs"
+        }
+      ],
+      "narration_text": "He skidded to a stop, his eyes locking onto a narrow stairway leading down into darkness. For a moment, he hesitated, then took the stairs two at a time, disappearing into the shadows.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A dimly lit, abandoned stairway leading down into darkness. The walls are old and worn, with cobwebs hanging from the ceiling. The air is musty and stale. The protagonist, a young adult male, stands at the top of the stairs, looking down into the darkness. He is hesitant, but determined. The lighting is low, with shadows cast across the walls. The color palette is muted, with shades of gray and brown. The mood is ominous and foreboding. The composition is focused on the protagonist, with the stairs leading down into the darkness. The art style is realistic, with attention to detail. The image should evoke a sense of unease and uncertainty.",
+      "negative_prompt": "bright, cheerful, happy, sunny",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "echoes",
+        "creaking stairs"
+      ],
+      "ambient_sounds": [
+        "distant dripping water",
+        "creaking old wooden floorboards"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "adventure",
+        "horror"
+      ],
+      "duration_estimate": 10.5,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    },
+    {
+      "scene_id": "story_1a338a2f_scene_03",
+      "story_id": "story_1a338a2f",
+      "sequence_number": 3,
+      "title": "A Desperate Plea",
+      "setting": {
+        "location": "Unknown",
+        "time_of_day": "unknown",
+        "weather": "Unknown",
+        "atmosphere": "Tense and foreboding",
+        "lighting": "Dim"
+      },
+      "characters": [
+        {
+          "name": "He",
+          "emotion": "Fearful",
+          "action": "Whispering",
+          "location_in_scene": "Center"
+        }
+      ],
+      "narration_text": "Please, please, please, he whispered, his voice trembling with fear.",
+      "dialogue": [
+        {
+          "character": "He",
+          "text": "Please, please, please",
+          "emotion": "Fearful"
+        }
+      ],
+      "emotional_tone": "mysterious",
+      "pacing": "medium",
+      "tension_level": 8,
+      "visual_prompt": "A dimly lit, eerie scene with a single figure in the center, whispering with a fearful expression. The background is dark and ominous, with shadows cast on the walls. The figure's eyes are wide with fear, and their voice is barely audible. The color palette is muted, with shades of blue and gray dominating the scene. The mood is tense and foreboding, with a sense of impending doom.",
+      "negative_prompt": "Bright colors, cheerful atmosphere, happy expression",
+      "narration_style": "calm",
+      "music_mood": "Dark ambient electronic with a slow, ominous beat",
+      "music_tempo": "Slow",
+      "sfx_cues": [
+        "Distant footsteps",
+        "Creaking doors",
+        "Faint whispering"
+      ],
+      "ambient_sounds": [
+        "Distant thunder",
+        "Creaking wooden floor"
+      ],
+      "arc_stage": "Rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "Fear",
+        "Desperation",
+        "Mystery"
+      ],
+      "duration_estimate": 10.5,
+      "image_path": null,
+      "audio_path": null,
+      "video_path": null
+    }
+  ]
+}

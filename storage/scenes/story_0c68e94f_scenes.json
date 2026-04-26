@@ -1,0 +1,175 @@
+{
+  "story_id": "story_0c68e94f",
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "story_0c68e94f_scene_01",
+      "story_id": "story_0c68e94f",
+      "sequence_number": 1,
+      "title": "The Weight of Longing",
+      "setting": {
+        "location": "vast, open landscape",
+        "time_of_day": "dusk",
+        "weather": "clear with distant rain",
+        "atmosphere": "melancholic, contemplative",
+        "lighting": "warm, fading light"
+      },
+      "characters": [
+        {
+          "name": "Sare",
+          "emotion": "longing, melancholic",
+          "action": "standing, walking",
+          "location_in_scene": "center of the landscape"
+        }
+      ],
+      "narration_text": "As she stood alone in the vast, open landscape, the warm beige sand beneath her feet seemed to swallow her whole. The soft blues of the sky above whispered secrets she couldn't quite decipher. Sare's eyes, a deep shade of brown that seemed almost black in the fading light, gazed out at the horizon, her thoughts a thousand miles away. It was a word from her childhood, one her grandmother used to tell stories of old. Stories of love, loss, and longing. Sare's heart felt heavy with the weight of her own longing, a sense of disconnection from the world around her. She took a deep breath, the air filling her lungs with the scent of distant rain, and began to walk, her footsteps carrying her toward the unknown.",
+      "dialogue": [
+        {
+          "character": "Sare",
+          "text": "'Maddagudu'",
+          "emotion": "contemplative, nostalgic"
+        }
+      ],
+      "emotional_tone": "melancholic",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A serene, dreamlike landscape with warm beige sand and soft blue skies. Sare, a young woman with deep brown eyes, stands at the center, lost in thought. Her grandmother's stories of love, loss, and longing are etched on her face. The atmosphere is contemplative and melancholic, with a sense of longing. The lighting is warm and fading, with the scent of distant rain in the air. Composition: Sare stands alone, with the vast landscape stretching out before her. Colors: muted earth tones and soft blues. Mood: melancholic and contemplative.",
+      "negative_prompt": "no vibrant colors, no loud sounds",
+      "narration_style": "calm",
+      "music_mood": "mellow, acoustic guitar with a hint of sadness",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "distant rain",
+        "soft wind"
+      ],
+      "ambient_sounds": [
+        "crickets",
+        "wind rustling through grass"
+      ],
+      "arc_stage": "exposition",
+      "source_agent": "unknown",
+      "tags": [
+        "longing",
+        "melancholic",
+        "contemplative"
+      ],
+      "duration_estimate": 120.0,
+      "image_path": "./storage\\images\\story_0c68e94f_scene_01.png",
+      "audio_path": "./storage\\audio\\story_0c68e94f_scene_01_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_0c68e94f_scene_02",
+      "story_id": "story_0c68e94f",
+      "sequence_number": 2,
+      "title": "Ominous Approach",
+      "setting": {
+        "location": " outdoors, possibly a forest or woods",
+        "time_of_day": "dusk",
+        "weather": "darkening sky, possibly with rain",
+        "atmosphere": "eerie, unsettling",
+        "lighting": "dim, possibly with an ominous glow"
+      },
+      "characters": [
+        {
+          "name": "Sare",
+          "emotion": "uneasy, possibly fearful",
+          "action": "walking",
+          "location_in_scene": "in the foreground, possibly leading the viewer"
+        }
+      ],
+      "narration_text": "As Sare walked, the sky began to darken, and the air grew thick with an eerie, unsettling energy. The scent of rain gave way to a smell of damp earth and decay.",
+      "dialogue": [],
+      "emotional_tone": "ominous",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A darkening forest landscape with an eerie, unsettling atmosphere. Sare, a lone figure, walks in the foreground, surrounded by tall trees with twisted branches. The sky above is a deep, foreboding grey, with flashes of lightning illuminating the clouds. The air is thick with an unsettling energy, and the scent of damp earth and decay fills the air. The art style is dark and moody, with heavy shadows and muted colors. The composition is cinematic, with Sare in the center of the frame, and the trees and sky stretching out behind them. The mood is ominous and foreboding, with a sense of impending danger.",
+      "negative_prompt": "bright colors, happy atmosphere, sunny sky",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "creaking branches",
+        "howling wind"
+      ],
+      "ambient_sounds": [
+        "rainfall",
+        "distant thunder"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "horror",
+        "mystery",
+        "suspense"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": "./storage\\images\\story_0c68e94f_scene_02.png",
+      "audio_path": "./storage\\audio\\story_0c68e94f_scene_02_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_0c68e94f_scene_03",
+      "story_id": "story_0c68e94f",
+      "sequence_number": 3,
+      "title": "The Shadow Figure Appears",
+      "setting": {
+        "location": "Unknown outdoor location",
+        "time_of_day": "night",
+        "weather": "windy",
+        "atmosphere": "ominous and foreboding",
+        "lighting": "low, with deep shadows"
+      },
+      "characters": [
+        {
+          "name": "Sare",
+          "emotion": "fearful",
+          "action": "standing still, heart racing",
+          "location_in_scene": "center of the scene"
+        },
+        {
+          "name": "The Figure",
+          "emotion": "unknown",
+          "action": "emerging from shadows, approaching Sare",
+          "location_in_scene": "periphery of the scene, moving closer"
+        }
+      ],
+      "narration_text": "A figure emerged from the shadows, its presence seeming to draw the very light out of the air. Sare's heart quickened as the figure drew closer, its features indistinct, shrouded in a hood that cast a deep, impenetrable shadow over its face. The word 'Maddagudu' echoed in Sare's mind once more, this time with a sense of warning, as if her grandmother's stories had been trying to prepare her for this moment. The figure halted a short distance away, its gaze fixed intently on Sare, and then, in a voice that was barely audible over the rising wind, it spoke a single, chilling word: 'Sarena.'",
+      "dialogue": [
+        {
+          "character": "The Figure",
+          "text": "'Sarena.'",
+          "emotion": "menacing"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dark, mystical scene with a hooded figure emerging from shadows, casting a deep, impenetrable shadow over its face. Sare stands in the center, her heart racing, with a look of fear on her face. The background is a dark, misty forest with tall trees looming in the distance. The lighting is low, with deep shadows and a faint, eerie glow. The color palette is dark and muted, with shades of indigo, purple, and black. The mood is ominous and foreboding, with a sense of impending danger.",
+      "negative_prompt": "bright, cheerful, happy, sunny",
+      "narration_style": "dramatic",
+      "music_mood": "dark, ambient, haunting",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "wind howling",
+        "footsteps approaching",
+        "echoes"
+      ],
+      "ambient_sounds": [
+        "crickets chirping",
+        "distant thunder"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "supernatural",
+        "fear"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": "./storage\\images\\story_0c68e94f_scene_03.png",
+      "audio_path": "./storage\\audio\\story_0c68e94f_scene_03_mixed.wav",
+      "video_path": null
+    }
+  ]
+}

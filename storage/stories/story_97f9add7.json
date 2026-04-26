@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "spy action agent who is willing to find the nuclear lab",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the agent pored over the stack of classified documents and surveillance footage, a name kept popping up: Dr. Elena Vasquez, a former nuclear physicist who had gone rogue. The agent's eyes narrowed as they pieced together the timeline of Dr. Vasquez's movements, leading them to a seedy underground nightclub on the outskirts of the city. According to the intel, Dr. Vasquez had been spotted at the club multiple times, always meeting with the same mysterious figure. The agent's gut told them that this was the break they needed to finally track down the location of the nuclear lab. With a newfound sense of purpose, the agent began to prepare for a high-stakes infiltration mission, knowing that one misstep could mean catastrophe."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "tense",
+      "text": "The agent stood outside the nightclub, the thumping bass and faint smell of smoke wafting out into the cool night air. With a deep breath, they pushed open the door and slipped inside, immediately enveloped in a sea of bodies and pulsating lights. Scanning the room, their eyes locked onto a figure in the corner - Dr. Vasquez, sipping a drink and laughing with the mysterious figure from the surveillance footage. The agent's training kicked in, and they expertly blended into the crowd, edging closer to gather more intel. As they listened in on the conversation, snippets of conversation caught their attention: 'the package is ready', 'the buyer is getting impatient', and 'Erebus will take care of the rest'. The agent's mind racing, they realized that they might be in over their head, but they were determined to see this mission through. With a newfound sense of urgency, they discreetly pulled out their phone and sent a coded message to their handler, hoping to get backup and guidance before things escalated further."
+    }
+  ]
+}

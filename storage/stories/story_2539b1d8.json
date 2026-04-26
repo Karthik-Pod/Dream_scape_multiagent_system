@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "A boy running in a forrest getitng chased by tiger",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "PlotAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "The boy, with a burst of adrenaline, spotted a narrow opening between two large boulders and sprinted towards it. He squeezed through the tight space just as the tiger was about to pounce, its claws swiping at the air mere inches from his heels. panting heavily, the boy found himself in a small, enclosed area surrounded by dense foliage. For a moment, he was safe, but he knew the tiger could easily follow if it chose to. He looked around frantically for any means of defense or escape, his eyes adjusting to the dim light. A fallen branch caught his eye, and with a surge of determination, he grasped it, ready to face whatever came next. The silence was oppressive, the only sound the heavy breathing of the boy and the distant, muffled roar of the tiger, waiting on the other side of the boulders."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "tense",
+      "text": "As the boy stood there, clutching the branch, he began to notice that the air inside the enclosed area was thick with the scent of damp earth and decaying leaves. The ground beneath his feet started to shift, and he realized with a jolt of fear that he was standing on a thin layer of soil covering a hidden pit. The boy's eyes widened as he stumbled backwards, desperately trying to regain his balance. His foot caught on a hidden root, and he fell hard onto the unforgiving ground, the branch slipping from his grasp. The sound of the tiger's roar seemed to grow louder, and the boy knew he had to move, but as he scrambled to his feet, he saw that the pit was now exposed, a deep and seemingly bottomless chasm stretching out before him. The boy's heart sank as he realized his only hope for escape might be to navigate the treacherous terrain and find a way to cross the pit, all while the tiger waited patiently on the other side of the boulders."
+    }
+  ]
+}

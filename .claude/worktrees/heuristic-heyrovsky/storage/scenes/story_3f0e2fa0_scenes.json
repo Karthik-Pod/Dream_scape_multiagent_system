@@ -1,0 +1,314 @@
+{
+  "story_id": "story_3f0e2fa0",
+  "total_scenes": 5,
+  "scenes": [
+    {
+      "scene_id": "story_3f0e2fa0_scene_01",
+      "story_id": "story_3f0e2fa0",
+      "sequence_number": 1,
+      "title": "The Unseen Warning",
+      "setting": {
+        "location": "forest",
+        "time_of_day": "unknown",
+        "weather": "damp",
+        "atmosphere": "ominous",
+        "lighting": "dappled"
+      },
+      "characters": [
+        {
+          "name": "the man",
+          "emotion": "cautious",
+          "action": "crouching, creeping, freezing",
+          "location_in_scene": "forest floor"
+        }
+      ],
+      "narration_text": "The man's eyes snapped towards the sound, his brow furrowed in a mix of confusion and caution. He slowly rose from his crouch, his movements fluid but deliberate. As he crept forward, the rustling of leaves beneath his feet seemed to echo through the forest like a warning. The air was heavy with the scent of damp earth and decaying vegetation, and the man's nostrils flared as he took in the unfamiliar aroma. He froze, his senses on high alert, as a faint whisper seemed to caress his ear. 'What's going on?' he muttered to himself, his voice barely above a whisper. He froze, his senses on high alert, as a faint whisper seemed to caress his ear. 'Shh... come closer.' The man's heart quickened, and he felt a shiver run down his spine.",
+      "dialogue": [
+        {
+          "character": "the man",
+          "text": "What's going on?",
+          "emotion": "confused"
+        },
+        {
+          "character": "unknown",
+          "text": "Shh... come closer.",
+          "emotion": "mysterious"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dark, mysterious forest scene with dappled lighting, misty atmosphere, and a sense of foreboding. The man is crouched low to the ground, his eyes fixed on something in the distance. The trees loom above him, their branches twisted and gnarled. The air is heavy with the scent of damp earth and decaying vegetation. The man's face is tense, his brow furrowed in concern. In the background, a faint whisper seems to caress his ear, drawing him closer to the unknown.",
+      "negative_prompt": "bright, sunny, cheerful",
+      "narration_style": "whispered",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "rustling leaves",
+        "footsteps"
+      ],
+      "ambient_sounds": [
+        "damp earth",
+        "decaying vegetation"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "thriller",
+        "forest"
+      ],
+      "duration_estimate": 45.0,
+      "image_path": "./storage\\images\\story_3f0e2fa0_scene_01.png",
+      "audio_path": "./storage\\audio\\story_3f0e2fa0_scene_01_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_3f0e2fa0_scene_02",
+      "story_id": "story_3f0e2fa0",
+      "sequence_number": 2,
+      "title": "The Whisper in the Dark",
+      "setting": {
+        "location": "forest",
+        "time_of_day": "night",
+        "weather": "dark and quiet",
+        "atmosphere": "ominous and suspenseful",
+        "lighting": "moonlit"
+      },
+      "characters": [
+        {
+          "name": "the man",
+          "emotion": "curious and cautious",
+          "action": "moving forward and listening",
+          "location_in_scene": "center of the scene"
+        },
+        {
+          "name": "the figure",
+          "emotion": "unknown",
+          "action": "emerging from the underbrush",
+          "location_in_scene": "periphery of the scene"
+        }
+      ],
+      "narration_text": "The man's eyes locked onto some unseen point, his gaze piercing the darkness as he took a cautious step forward. The whisper seemed to grow louder, more urgent, and he felt an inexplicable pull towards its source. He called out, his voice low and controlled, but with a hint of curiosity. The whisper fell silent, and the man's ears strained to pick up any sound, but the forest held its breath in anticipation. A faint rustling came from the underbrush, and a figure emerged from the darkness, its features indistinct until the moonlight caught it.",
+      "dialogue": [
+        {
+          "character": "the man",
+          "text": "Who are you?",
+          "emotion": "curious"
+        }
+      ],
+      "emotional_tone": "suspenseful",
+      "pacing": "slow",
+      "tension_level": 8,
+      "visual_prompt": "A dark and suspenseful forest scene with a man standing in the center, looking towards the periphery where a figure is emerging from the underbrush. The moon is high in the sky, casting an eerie glow over the scene. The atmosphere is tense and foreboding, with a sense of anticipation building. The colors are muted, with shades of blue and green dominating the palette. The composition should be cinematic, with a focus on the man's figure and the figure emerging from the darkness.",
+      "negative_prompt": "bright colors, cheerful atmosphere, fast-paced action",
+      "narration_style": "calm",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "whisper",
+        "rustling",
+        "footsteps"
+      ],
+      "ambient_sounds": [
+        "crickets",
+        "hooting owls"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "suspense",
+        "horror"
+      ],
+      "duration_estimate": 120.0,
+      "image_path": "./storage\\images\\story_3f0e2fa0_scene_02.png",
+      "audio_path": "./storage\\audio\\story_3f0e2fa0_scene_02_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_3f0e2fa0_scene_03",
+      "story_id": "story_3f0e2fa0",
+      "sequence_number": 3,
+      "title": "A Glimpse of Hope",
+      "setting": {
+        "location": "unknown",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "man",
+          "emotion": "curious",
+          "action": "questioning",
+          "location_in_scene": "center"
+        },
+        {
+          "name": "woman",
+          "emotion": "fearful",
+          "action": "hesitating",
+          "location_in_scene": "periphery"
+        }
+      ],
+      "narration_text": "The man's heart skipped a beat as he took in the sight of a woman, her long hair tangled and dirty, her eyes gleaming with a mixture of fear and determination. The man's eyes locked onto the woman, his gaze piercing but controlled. The woman hesitated, her eyes darting back and forth as if searching for an escape route or a hidden ally.",
+      "dialogue": [
+        {
+          "character": "man",
+          "text": "What's your name?",
+          "emotion": "curious"
+        }
+      ],
+      "emotional_tone": "tense",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A dimly lit scene with a man in the center, looking at a woman with a mixture of curiosity and control. The woman is in the periphery, her long hair tangled and dirty, her eyes gleaming with fear and determination. The atmosphere is tense, with a sense of uncertainty. The art style is realistic, with a focus on capturing the emotions of the characters. The colors are muted, with a focus on blues and greys. The composition is tight, with a focus on the interaction between the two characters. The mood is suspenseful, with a sense of anticipation.",
+      "negative_prompt": "no smiling, no happy music",
+      "narration_style": "calm",
+      "music_mood": "ominous ambient electronic",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "footsteps",
+        "breathing"
+      ],
+      "ambient_sounds": [
+        "distant wind",
+        "creaking wood"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "suspense",
+        "mystery",
+        "drama"
+      ],
+      "duration_estimate": 30.0,
+      "image_path": "./storage\\images\\story_3f0e2fa0_scene_03.png",
+      "audio_path": "./storage\\audio\\story_3f0e2fa0_scene_03_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_3f0e2fa0_scene_04",
+      "story_id": "story_3f0e2fa0",
+      "sequence_number": 4,
+      "title": "A Moment of Trust",
+      "setting": {
+        "location": "Unknown/Indoors",
+        "time_of_day": "unknown",
+        "weather": "unknown",
+        "atmosphere": "tense",
+        "lighting": "dim"
+      },
+      "characters": [
+        {
+          "name": "Woman",
+          "emotion": "fearful",
+          "action": "shielding her face",
+          "location_in_scene": "center"
+        },
+        {
+          "name": "Man",
+          "emotion": "reassuring",
+          "action": "speaking",
+          "location_in_scene": "center"
+        }
+      ],
+      "narration_text": "She took a step back, her hands instinctively rising to shield her face, and the man's grip on his instincts faltered. She seemed to weigh her options, her chest rising and falling with each ragged breath.",
+      "dialogue": [
+        {
+          "character": "Man",
+          "text": "'It's okay, I won't hurt you.'",
+          "emotion": "reassuring"
+        }
+      ],
+      "emotional_tone": "tense",
+      "pacing": "medium",
+      "tension_level": 6,
+      "visual_prompt": "A dimly lit indoor scene with a woman shielding her face and a man speaking softly. The woman's eyes are wide with fear, and the man's expression is calm and reassuring. The color palette is muted with shades of blue and gray. The composition is focused on the two characters, with the background blurred. The mood is tense and suspenseful.",
+      "negative_prompt": "no bright colors, no loud sounds",
+      "narration_style": "calm",
+      "music_mood": "soft piano or acoustic guitar with a slow tempo",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "whispering"
+      ],
+      "ambient_sounds": [
+        "distant murmurs"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "trust",
+        "fear",
+        "reassurance"
+      ],
+      "duration_estimate": 10.5,
+      "image_path": "./storage\\images\\story_3f0e2fa0_scene_04.png",
+      "audio_path": "./storage\\audio\\story_3f0e2fa0_scene_04_mixed.wav",
+      "video_path": null
+    },
+    {
+      "scene_id": "story_3f0e2fa0_scene_05",
+      "story_id": "story_3f0e2fa0",
+      "sequence_number": 5,
+      "title": "A Whispered Secret",
+      "setting": {
+        "location": "a forest or woodland area",
+        "time_of_day": "dusk",
+        "weather": "crisp, possibly autumnal",
+        "atmosphere": "tense, foreboding",
+        "lighting": "dappled, with warm and cool tones"
+      },
+      "characters": [
+        {
+          "name": "Lila",
+          "emotion": "fearful, anxious",
+          "action": "whispering a name",
+          "location_in_scene": "likely hidden or concealed"
+        },
+        {
+          "name": "the man",
+          "emotion": "confused, uncertain",
+          "action": "processing information",
+          "location_in_scene": "likely standing or sitting nearby Lila"
+        }
+      ],
+      "narration_text": "Lila,' she whispered finally, her voice barely audible over the rustling of leaves. The man's gut twisted with a mix of emotions as he processed her name, his mind racing with questions and doubts.",
+      "dialogue": [
+        {
+          "character": "Lila",
+          "text": "Lila",
+          "emotion": "fearful, anxious"
+        }
+      ],
+      "emotional_tone": "ominous",
+      "pacing": "slow",
+      "tension_level": 6,
+      "visual_prompt": "A dark, misty forest scene with warm and cool tones. Lila is hidden from view, her face obscured by shadows. The man stands nearby, his expression a mix of confusion and concern. The rustling of leaves is the only sound. Art style: moody, atmospheric. Lighting: dappled with warm and cool tones. Composition: Lila is centered, with the man off to one side. Colors: muted, with shades of green and brown. Mood: ominous, foreboding. Scene elements: a few scattered leaves, a faint mist in the air.",
+      "negative_prompt": "clear skies, bright sunlight, happy faces",
+      "narration_style": "whispered",
+      "music_mood": "dark ambient electronic with distant strings",
+      "music_tempo": "slow",
+      "sfx_cues": [
+        "leaves rustling",
+        "distant wind"
+      ],
+      "ambient_sounds": [
+        "forest sounds",
+        "distant water"
+      ],
+      "arc_stage": "rising_action",
+      "source_agent": "unknown",
+      "tags": [
+        "mystery",
+        "whispered secret",
+        "forest"
+      ],
+      "duration_estimate": 20.5,
+      "image_path": "./storage\\images\\story_3f0e2fa0_scene_05.png",
+      "audio_path": "./storage\\audio\\story_3f0e2fa0_scene_05_mixed.wav",
+      "video_path": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "create a unique story",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As she walked, the silence was broken only by the soft crunch of gravel beneath her boots. Lena's mind began to wander, drifting back to the memories she had tried to leave behind. The fire that had ravaged her family's home, the feeling of helplessness as she watched it burn, the sound of her mother's voice whispering 'run' as the flames engulfed everything. She had been running ever since, trying to escape the pain and the guilt that had become her constant companions. The isolation of this place, with its shrouding mist and twisted trees, seemed to echo the emptiness within her. 'Why did I come here?' she thought, the question hanging in the air like the mist itself. She stopped, looking around, and for a moment, the stillness was almost palpable. Then, a distant howl pierced the air, and Lena felt a shiver run down her spine. She knew she wasn't alone, and the realization brought a mix of fear and curiosity."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "ominous",
+      "text": "As the howl faded into the mist, Lena's eyes scanned the surroundings, her heart pounding in her chest. She took a cautious step forward, and then another, her boots sinking into the damp earth. The silence that followed was oppressive, heavy with anticipation. Suddenly, a figure emerged from the veil of mist, its features indistinct and shrouded in shadow. Lena's hand instinctively went to the knife sheathed at her belt, her fingers wrapping around the hilt as if it could offer her some sense of protection. The figure didn't seem to notice her, its gaze fixed on some point beyond her shoulder. It was then that Lena saw it - a sprawling, ancient mansion looming in the distance, its windows like empty eyes staring back. The figure began to move towards the mansion, its pace slow and deliberate, and Lena felt an inexplicable pull to follow, as if some unseen force was drawing her into the heart of the mist-shrouded estate."
+    }
+  ]
+}

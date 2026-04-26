@@ -1,0 +1,20 @@
+{
+  "initial_prompt": "A BOY RUNNING IN A PARK",
+  "total_rounds": 2,
+  "segments": [
+    {
+      "round": 1,
+      "agent": "CharacterAgent",
+      "arc_stage": "exposition",
+      "emotional_tone": "tense",
+      "text": "As the boy ran, his feet pounding against the earth in a rhythmic beat, he couldn't help but feel a sense of freedom. The wind whipped through his hair, and his eyes sparkled with joy, but occasionally, a flicker of uncertainty danced across his face. He glanced over his shoulder, his eyes scanning the surroundings, but saw nothing out of the ordinary. The boy's pace slowed, and he came to a stop beside a large oak tree, its branches stretching towards the sky like nature's own cathedral. He leaned against the trunk, catching his breath, and for a moment, his gaze drifted upwards, lost in thought. The sound of leaves rustling in the gentle breeze and the distant call of a bird were the only sounds that broke the silence. Suddenly, he pushed off from the tree and continued his run, but this time, with a hint of urgency in his steps."
+    },
+    {
+      "round": 2,
+      "agent": "PlotAgent",
+      "arc_stage": "climax",
+      "emotional_tone": "tense",
+      "text": "As the boy continued his run, the trees seemed to close in around him, casting long, ominous shadows on the ground. The rustling of leaves beneath his feet sounded like whispers, and the distant call of the bird had grown silent. He glanced over his shoulder once more, and this time, he thought he saw a figure standing just beyond the treeline. The figure was shrouded in shadows, making it impossible to discern any features. The boy's heart began to pound in his chest, and his pace quickened as he wondered if he was being followed. Suddenly, he heard the faint sound of footsteps behind him, echoing his own. The boy's urgency turned to fear, and he picked up speed, his eyes fixed on a break in the trees ahead, which he hoped would lead him back to the safety of the park's entrance."
+    }
+  ]
+}
