@@ -488,9 +488,9 @@ Contributions welcome! Areas for improvement:
 
 ## 🎬 Demo Video
 
-[Watch full 15-minute demo on YouTube](#https://youtu.be/2eH-Z0DUcLQ)  
+[Watch full 15-minute demo on YouTube]
 Shows: Story generation → Review loop → Image generation → Audio → Final video assembly
-
+- ** Youtube:** https://youtu.be/2eH-Z0DUcLQ
 ---
 
 <div align="center">
